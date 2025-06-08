@@ -3,28 +3,50 @@
 <head>
   <meta charset="UTF-8">
   <title>Catalogue – Bibliothèque Ultime</title>
-  <meta name="description" content="La Bibliothèque Ultime : accédez à des millions de livres PDF, ebooks et livres audio gratuitement. Recherche et téléchargement rapide via Telegram.">
+  <meta name="description" content="La Bibliothèque Ultime : accédez à des centaines de livres PDF, ebooks et livres audio gratuitement. Recherche et téléchargement rapide via Telegram.">
   <meta name="keywords" content="bibliothèque, livres, PDF, ebook, téléchargement, gratuit, Telegram, catalogue, lecture, éducation">
   <link rel="canonical" href="https://livrespdf.vercel.app/">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>📚 Catalogue de la Bibliothèque Ultime</h1>
-  <p>Découvrez et cherchez tous les livres de la Bibliothèque Ultime. Téléchargez-les directement sur Telegram !</p>
-  
-  <!-- Barre de recherche et filtre auteur -->
-  <div id="search-bar" style="margin-bottom:1.5rem;">
-    <input id="search-input" type="text" placeholder="Rechercher un livre, un auteur, un mot-clé..." style="width:55%;padding:0.5rem;">
-    <select id="author-filter" style="padding:0.5rem;margin-left:0.5rem;">
-      <option value="">Tous les auteurs</option>
-      <!-- options générées automatiquement -->
-    </select>
+
+  <!-- Bloc À propos -->
+  <section id="about" style="max-width:850px;margin:1.5em auto 1em auto;padding:1.1em 1.2em 0.8em 1.2em;border-radius:9px;background:linear-gradient(92deg, #0370c0 60%, #e1722b 100%);color:#fff;box-shadow:0 2px 14px #0370c022;">
+    <h2 style="color:#fff;font-size:1.23em;font-weight:700;margin:0 0 0.55em 0;">À propos de la Bibliothèque Ultime</h2>
+    <p style="font-size:1.06em;">
+      La <b>Bibliothèque Ultime</b> est un projet indépendant qui met à la disposition de tous des millions de livres PDF, ebooks et livres audio pour accompagner votre éducation, votre développement personnel et votre curiosité.<br>
+      <b>Pas de publicité intrusive, pas d’inscription obligatoire.</b>
+      <br>
+      <br>
+      <span style="background:#fff2ee;color:#e1722b;padding:2px 9px;border-radius:6px;font-weight:600;">Tout ce que vous cherchez se trouve à portée de clic…</span>
+      <br><br>
+      <i>Rejoignez notre communauté sur Telegram pour profiter de toutes les fonctionnalités et découvrir les nouveautés en avant-première !</i>
+    </p>
+  </section>
+
+  <div id="search-bar">
+    <input id="search-input" type="search" placeholder="Rechercher un livre, un auteur...">
+    <select id="author-filter"></select>
   </div>
-  
-  <!-- Pagination contrôles -->
-  <div id="pagination-controls" style="margin-bottom:1.5rem;"></div>
-  
   <div id="books-list"></div>
+  <div id="pagination-controls"></div>
+
+  <!-- Footer -->
+  <footer style="margin:3em 0 1.7em 0;text-align:center;font-size:1em;color:#2a2a2a;">
+    <div>
+      <a href="https://t.me/deslivresenpdf" style="color:#0370c0;font-weight:700;text-decoration:none;margin:0 0.7em;">
+        📚 Communauté Telegram
+      </a>
+      <a href="https://t.me/Mmiracle2" style="color:#e1722b;font-weight:700;text-decoration:none;margin:0 0.7em;">
+        👤 Contact admin
+      </a>
+    </div>
+    <div style="margin:0.7em 0 0 0;">
+      &copy; Bibliothèque Ultime 2025
+    </div>
+  </footer>
+
   <script src="main.js"></script>
 </body>
 </html>
