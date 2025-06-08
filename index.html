@@ -9,6 +9,19 @@
 <body>
   <h1>📚 Catalogue de la Bibliothèque Ultime</h1>
   <p>Découvrez et cherchez tous les livres de la Bibliothèque Ultime. Téléchargez-les directement sur Telegram !</p>
+  
+  <!-- Barre de recherche et filtre auteur -->
+  <div id="search-bar" style="margin-bottom:1.5rem;">
+    <input id="search-input" type="text" placeholder="Rechercher un livre, un auteur, un mot-clé..." style="width:55%;padding:0.5rem;">
+    <select id="author-filter" style="padding:0.5rem;margin-left:0.5rem;">
+      <option value="">Tous les auteurs</option>
+      <!-- options générées automatiquement -->
+    </select>
+  </div>
+  
+  <!-- Pagination contrôles -->
+  <div id="pagination-controls" style="margin-bottom:1.5rem;"></div>
+  
   <div id="books-list"></div>
   <script src="main.js"></script>
 </body>
