@@ -54,16 +54,18 @@ function showPage(page) {
   const booksToShow = filteredBooks.slice(start, end);
 
   list.innerHTML = booksToShow.map(book => `
-    <div class="book">
+  <div class="book">
+    <a href="livre.html?id=${encodeURIComponent(book.id)}" style="text-decoration:none;">
       <img src="${book.cover || 'https://placehold.co/100x150?text=LIVRE'}" alt="Couverture du livre ${book.titre}">
-      <div>
-        <h2>${book.titre}</h2>
-        <p><strong>Auteur :</strong> ${book.auteur || "N/A"}</p>
-        <p>${book.description || ""}</p>
-        <a href="https://t.me/BibliothequeUltime_bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
-      </div>
+    </a>
+    <div>
+      <h2><a href="livre.html?id=${encodeURIComponent(book.id)}" style="color:#384b92;text-decoration:none;">${book.titre}</a></h2>
+      <p><strong>Auteur :</strong> ${book.auteur || "N/A"}</p>
+      <p>${book.description || ""}</p>
+      <a href="https://t.me/BibliothequeUltime_bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
     </div>
-  `).join('');
+  </div>
+`).join('');
 
   renderPagination(page, Math.ceil(filteredBooks.length / booksPerPage));
 }

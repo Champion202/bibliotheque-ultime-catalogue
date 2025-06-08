@@ -168,3 +168,18 @@ p {
     min-width: unset;
   }
 }
+
+#back-btn {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.6em;
+  text-decoration: none;
+  transition: transform .14s;
+}
+#back-btn:hover, #back-btn:focus {
+  transform: translateX(-4px) scale(1.04);
+  outline: none;
+}
+#back-btn svg {
+  display: block;
+}
