@@ -1,5 +1,19 @@
-body { font-family: sans-serif; background: #f9f9f9; color: #222; padding: 2rem; }
-h1 { color: #194ca6; }
-.book { background: #fff; margin: 1rem 0; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 8px #0001;}
-a { color: #fff; background: #194ca6; text-decoration: none; padding: .5rem 1rem; border-radius: 4px; }
-a:hover { background: #107e54; }
+.book {
+  background: #fff; 
+  margin: 1rem 0; 
+  padding: 1rem; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 8px #0001;
+  display: flex;
+  gap: 1.2rem;
+}
+.book img {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px #0002;
+}
+.book div {
+  flex: 1;
+}

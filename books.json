@@ -1,3094 +1,5413 @@
 [
   {
     "id": "1iPwhH-kVPAyI6vhgISbpbHGAXU02KC88",
-    "titre": " Introduction au droit 2023:2024 – Astrid Marais.pdf"
+    "titre": " Introduction au droit 2023:2024 – Astrid Marais.pdf",
+    "auteur": "Astrid Marais",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dvaA-vQQ5i-QZcpQkmVXn_DkdXdoiYq1",
-    "titre": "Comptabilité générale - Système français et normes IFRS – Jacques Richard & Christine Collette.pdf"
+    "titre": "Comptabilité générale - Système français et normes IFRS – Jacques Richard & Christine Collette.pdf",
+    "auteur": "Jacques Richard & Christine Collette",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qO3noWFjCCsSxGHulxyfWEfX5J4CugNm",
-    "titre": "Cours de droit des instruments de paiement et de crédit.pdf"
+    "titre": "Cours de droit des instruments de paiement et de crédit.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19X7pyXeCDf5n7gYsWb56b-wObIcSrXgG",
-    "titre": "Droit des contrats administratifs.pdf"
+    "titre": "Droit des contrats administratifs.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BndGehAjCPpEGFi8z_hOu4yCF-ScEoJx",
-    "titre": "Droit du travail, Tome 2 – Antoine Mazeaud.pdf"
+    "titre": "Droit du travail, Tome 2 – Antoine Mazeaud.pdf",
+    "auteur": "Antoine Mazeaud",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vI6lx0G2lwjeGNyexoYMt-qWZrNyTt3a",
-    "titre": "Droit français de l'intégration européenne – Édouard Dubout & Béligh Nabli.pdf"
+    "titre": "Droit français de l'intégration européenne – Édouard Dubout & Béligh Nabli.pdf",
+    "auteur": "Édouard Dubout & Béligh Nabli",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aexsjjC_Ucqb65EPJLvaV6MInwjyRkmN",
-    "titre": "Droit international public  Tome 1 – Documents d’intérêt général.pdf"
+    "titre": "Droit international public  Tome 1 – Documents d’intérêt général.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gS57Wd47L8yyE5qBZJj6_VRXAdyvB_mX",
-    "titre": "Droit pénal – Procédure pénale – Jacques Borricand & Anne-Marie Simon.pdf"
+    "titre": "Droit pénal – Procédure pénale – Jacques Borricand & Anne-Marie Simon.pdf",
+    "auteur": "Jacques Borricand & Anne-Marie Simon",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PdrYj2ygqPie_3Pojo3srh3GwY2ZXN0B",
-    "titre": "Droit_commercial_–_Georges_Decocq_&_Aurélie_Ballot_Léna.pdf"
+    "titre": "Droit_commercial_–_Georges_Decocq_&_Aurélie_Ballot_Léna.pdf",
+    "auteur": "Georges Decocq & Aurélie Ballot Léna",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iJd8OIVX1dEDcf2_9BZZrmDnjklV4RnW",
-    "titre": "Épistémologie juridique – Christian Atias.pdf"
+    "titre": "Épistémologie juridique – Christian Atias.pdf",
+    "auteur": "Christian Atias",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1pTOyHDHQCI3W30ZwZO4eB_ISi4pRZ7Aj",
-    "titre": "Histoire diplomatique de 1919 à nos jours – Jean-Baptiste Duroselle.pdf"
+    "titre": "Histoire diplomatique de 1919 à nos jours – Jean-Baptiste Duroselle.pdf",
+    "auteur": "Jean-Baptiste Duroselle",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1G0WScmjPT1_oopi58WaqgUWQi718Sovn",
-    "titre": "Institutions internationales – Jean Charpentier.pdf"
+    "titre": "Institutions internationales – Jean Charpentier.pdf",
+    "auteur": "",
+    "description": "Jean Charpentier",
+    "cover": ""
   },
   {
     "id": "1qSC6Pd2cVGOWkk9jHQegw_RGwI4xBjXq",
-    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub"
+    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ENVWFldVRBjPuXrgcMHLullAkzALd-G6",
-    "titre": "L'essentiel des relations internationales – Antoine Gazano (Éditions Gualino, Collection Les Carrés).pdf"
+    "titre": "L'essentiel des relations internationales – Antoine Gazano (Éditions Gualino, Collection Les Carrés).pdf",
+    "auteur": "Antoine Gazano",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10XWLVNR6oGLLAxl1E_rbtq09xCASsjVB",
-    "titre": "L'essentiel du droit des sociétés Béatrice et Francis Grandguillot.pdf"
+    "titre": "L'essentiel du droit des sociétés Béatrice et Francis Grandguillot.pdf",
+    "auteur": "Béatrice et Francis Grandguillot",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qvrpmZe7tmV6wpolRoNsCmyeFsmkLLbx",
-    "titre": "La gestion du temps  (Hermel).pdf"
+    "titre": "La gestion du temps  (Hermel).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19Xkd-HImo9zx9D89uH__PM2WDXhQLUIG",
-    "titre": "La_Nouvelle_Gestion_Publique_Concepts,_outils,_structures,_bonnes.pdf"
+    "titre": "La_Nouvelle_Gestion_Publique_Concepts,_outils,_structures,_bonnes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1faWRW70z0Q4TAXMtCO5jLi-letNKal5N",
-    "titre": "Le Droit international du développement – Alain Pellet.pdf"
+    "titre": "Le Droit international du développement – Alain Pellet.pdf",
+    "auteur": "Alain Pellet",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qjgP-OmKG3lzI4W3lyRe85TefL3OcGav",
-    "titre": "Le nouveau droit de l’arbitrage et de la médiation en Afrique (OHADA) – Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua.pdf"
+    "titre": "Le nouveau droit de l’arbitrage et de la médiation en Afrique (OHADA) – Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua.pdf",
+    "auteur": "Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Oimihczui3mv8j0uOWa-KVAza1tfPzhO",
-    "titre": "Les institutions de l'Union européenne – Stéphane Leclerc.pdf"
+    "titre": "Les institutions de l'Union européenne – Stéphane Leclerc.pdf",
+    "auteur": "Stéphane Leclerc",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jS_psHsp1UXUVG1Hjj4L6rgEaDW1xLLt",
-    "titre": "Marchés financiers.pdf"
+    "titre": "Marchés financiers.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1LVBtND0zO3cy7GMo2qjRZVmvreA0V_Bs",
-    "titre": "Accord avec une agence de placement.docx"
+    "titre": "Accord avec une agence de placement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xGqryA5qLmv2MQP4ZNUkZ1RB4-RRCR7u",
-    "titre": "Accord d_autorisation de sous-location.docx"
+    "titre": "Accord d_autorisation de sous-location.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1j4mAkzN3cfc5cdhaZDkdvFUwpZQjqLln",
-    "titre": "Accord de compromis sur dette.docx"
+    "titre": "Accord de compromis sur dette.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1svQ4tAqia2RHESnoLM3vWLDAfjpS7x91",
-    "titre": "Accord de confidentialité.docx"
+    "titre": "Accord de confidentialité.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qcX5uMfDyNQQrpa0SL_YJC5qoeUhkT85",
-    "titre": "Accord de délai supplémentaire pour remboursement de dette.docx"
+    "titre": "Accord de délai supplémentaire pour remboursement de dette.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1litqLm3oKPtYPneM-uJ8gB3ojZsHyTjY",
-    "titre": "Accord de licence d_utilisation d_une citation ou d_une déclaration personnelle.docx"
+    "titre": "Accord de licence d_utilisation d_une citation ou d_une déclaration personnelle.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kD5UFkCDvU6pqxPSnOpPyp8qv4IUn_ax",
-    "titre": "Accord de licence d_utilisation d_une oeuvre protégée.docx"
+    "titre": "Accord de licence d_utilisation d_une oeuvre protégée.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1oo9HBZCtMLsi5ip5o0ByWC8MO-hFUh34",
-    "titre": "Accord de modification des travaux.docx"
+    "titre": "Accord de modification des travaux.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_2DDv-2YodKot1lA4F2QC4uA5Rvb7rX6",
-    "titre": "Accord de non-concurrence par l_employé.docx"
+    "titre": "Accord de non-concurrence par l_employé.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1N8JmDhaYkhwLCuzD5Itw0r9eV_zUwXLV",
-    "titre": "Accord de non-divulgation avec consultant.docx"
+    "titre": "Accord de non-divulgation avec consultant.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FFIIUtClPU84sWPiFZollOFATd9c5xZg",
-    "titre": "Accord de prêt d_un actionnaire.docx"
+    "titre": "Accord de prêt d_un actionnaire.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "189ErgOa7nWZQY-1DEC4PVHSHYl7qDFhM",
-    "titre": "Accord de prêt.docx"
+    "titre": "Accord de prêt.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SgrMyroCzIuPOFz3xeElr6jnYTnBbk3e",
-    "titre": "Accord de principe pour règlement de facture litigieuse.docx"
+    "titre": "Accord de principe pour règlement de facture litigieuse.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1W77Nz7E3-o4zsVR0N34DWFDI9wtd5hjx",
-    "titre": "Accord de procuration.docx"
+    "titre": "Accord de procuration.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1eyIbyquU5M48Z42pnnHeyr4a94RAcHTq",
-    "titre": "Accord de prolongation de délai de paiement.docx"
+    "titre": "Accord de prolongation de délai de paiement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1X9CEYYFmEoAiT5FSwOzMjmOwWYsCszw0",
-    "titre": "Accord de résiliation de bail commercial.docx"
+    "titre": "Accord de résiliation de bail commercial.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bBv-W1Qda2apFaXAfF2qmsWY7rz9rn-n",
-    "titre": "Accord de résilisation d_un contrat de vente immobilier.docx"
+    "titre": "Accord de résilisation d_un contrat de vente immobilier.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HGmr0w_AyRygPuPd9vySUtarJkWoJsJq",
-    "titre": "Accord de résilisation de bail.docx"
+    "titre": "Accord de résilisation de bail.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17-MKJdmMDRSgGzjkIUwVEIWhRz_FvP-n",
-    "titre": "Accord de soumission au détecteur de mensonges.docx"
+    "titre": "Accord de soumission au détecteur de mensonges.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1D_f7BimND4udEmuO8H3KYWcNdJMkieLJ",
-    "titre": "Accord de subordination de droit de sûreté.docx"
+    "titre": "Accord de subordination de droit de sûreté.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "188M1rLXL_LbemO9TRCJvSs6zOyV0-08-",
-    "titre": "Accord de transfert des oeuvres d_avant embauche.docx"
+    "titre": "Accord de transfert des oeuvres d_avant embauche.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1urWK9JDFKZmqHpw5P-eEbsA7ZPI_lXK2",
-    "titre": "Accord de vérification de références.docx"
+    "titre": "Accord de vérification de références.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-1OVW6KWwttPkfFz-YwYFkYjV0TlpJvf",
-    "titre": "Accord entre propriétaire et entrepreneur.docx"
+    "titre": "Accord entre propriétaire et entrepreneur.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aFWHrxYoxOJmeN2ChyEHcLIWckOJNKI7",
-    "titre": "Accord et autorisation pour utiliser des photographies.docx"
+    "titre": "Accord et autorisation pour utiliser des photographies.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lyKeDTs6dWTdd1Ug-USTb825GyZLKLK3",
-    "titre": "Accord pour remboursement par tranches.docx"
+    "titre": "Accord pour remboursement par tranches.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xPXWzMDb86R9kpaesoLF2jFUbO1lSZA8",
-    "titre": "Accord préliminaire pour distribution de produits.docx"
+    "titre": "Accord préliminaire pour distribution de produits.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SE8KfQVvh74OZbpOK2_vjS00TOsctHIR",
-    "titre": "Accord sur la divulgation d_information après la fin du contrat.docx"
+    "titre": "Accord sur la divulgation d_information après la fin du contrat.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vEnp7JcFX_PF6JfOofD2UQTWPVNCzRsY",
-    "titre": "Accord sur prorogation de délai de paiement.docx"
+    "titre": "Accord sur prorogation de délai de paiement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_TP993hkfHsfjZP-t1E94v8doax-p7S1",
-    "titre": "Bail (Contrat de location).docx"
+    "titre": "Bail (Contrat de location).docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vEG4Wi6ubArKum0n8hZGNTHhBdiF65ij",
-    "titre": "Contrat avec un agent de vente.docx"
+    "titre": "Contrat avec un agent de vente.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Q5UeFixwiWJyeZOSBRVB_95BBHj0EExl",
-    "titre": "Contrat d_achat en ligne.docx"
+    "titre": "Contrat d_achat en ligne.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KF-IR6LPJKvX90b7h4C7uP8aLiSlZAsp",
-    "titre": "Contrat d_acquittement mutuel.docx"
+    "titre": "Contrat d_acquittement mutuel.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lN451TbIBNucHlcMcTxwoB_PZcwINmy2",
-    "titre": "Contrat d_arbitrage.docx"
+    "titre": "Contrat d_arbitrage.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZUhAK_rSGyieId15yQ4F9jecKPN11o6t",
-    "titre": "Contrat d_association.docx"
+    "titre": "Contrat d_association.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XJGgwiZFeuZCC_FQ9kO_zrO4t4kfM98k",
-    "titre": "Contrat d_échange d_informations confidentielles.docx"
+    "titre": "Contrat d_échange d_informations confidentielles.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-dpNY-iE5M501za1XowX1Yyw78rAElmF",
-    "titre": "Contrat d_embauche d_agent immmobilier.docx"
+    "titre": "Contrat d_embauche d_agent immmobilier.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yTq_cNImEX-uBjEdc-iL4R0wocGYivhJ",
-    "titre": "Contrat d_enregistrement de nom de domaine.docx"
+    "titre": "Contrat d_enregistrement de nom de domaine.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1z6pKTIudL4Yh4LwwZX51wZa83gkxVwi1",
-    "titre": "Contrat d_entreprise commune.docx"
+    "titre": "Contrat d_entreprise commune.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ffnvhrsdYjPC6nrGvBtdxj3qfXOdSPcG",
-    "titre": "Contrat d_hypothèque.docx"
+    "titre": "Contrat d_hypothèque.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GzlMma8WLPsBzYinQvwT0yR9EBiorvWW",
-    "titre": "Contrat d_indemnisation.docx"
+    "titre": "Contrat d_indemnisation.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Jym3jDn88SSbg8LROgiZzDE8eoRwXXsd",
-    "titre": "Contrat d_inscription en ligne.docx"
+    "titre": "Contrat d_inscription en ligne.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Vxg57KG3Kdt3YMB-l_74LpWLYyYe4XTc",
-    "titre": "Contrat d_utilisation d_un forum.docx"
+    "titre": "Contrat d_utilisation d_un forum.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QUvXYDXWdy0sXP0g0JpWx39VPbOcGfPp",
-    "titre": "Contrat de cession de brevet.docx"
+    "titre": "Contrat de cession de brevet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rWr7AsoFs1aoRNn-g0TR7QNZk8nd-aM2",
-    "titre": "Contrat de cession de droits d_auteur.docx"
+    "titre": "Contrat de cession de droits d_auteur.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Vu_FgrMd03KE2k8rWMTLfA_liZ7FutaW",
-    "titre": "Contrat de cession de marque.docx"
+    "titre": "Contrat de cession de marque.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nUKgzOLZDZfUAPVOdqo3CBQgFbopPleM",
-    "titre": "Contrat de collaboration externe pour services de programmation.docx"
+    "titre": "Contrat de collaboration externe pour services de programmation.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qTnt9pwJN6f3vAdyFeKzgIZAjgem9hO1",
-    "titre": "Contrat de confidentialité avec concepteur de système d_information.docx"
+    "titre": "Contrat de confidentialité avec concepteur de système d_information.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ktBBkBXKttzsMsB8VxP70W_6C7C8MYgN",
-    "titre": "Contrat de confidentialité avec le bénéficiaire d_une licence d_utilisation.docx"
+    "titre": "Contrat de confidentialité avec le bénéficiaire d_une licence d_utilisation.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16GWIQWXPFKnSYEDrCHdHFsVHojvsXpzx",
-    "titre": "Contrat de confidentialité avec un client.docx"
+    "titre": "Contrat de confidentialité avec un client.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Qn29nWtyOkhTf7WY1bd9aOqkzK-Nr84f",
-    "titre": "Contrat de confidentialité avec un visiteur.docx"
+    "titre": "Contrat de confidentialité avec un visiteur.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EvMAg6p_s2NVE4CU33pBNn7kuiH8tsG2",
-    "titre": "Contrat de confidentialité entre deux sociétés.docx"
+    "titre": "Contrat de confidentialité entre deux sociétés.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BbKmUSuyxw8bVPjB0_aQraIO5nZVBNnJ",
-    "titre": "Contrat de consultation avec partage des revenus de vente.docx"
+    "titre": "Contrat de consultation avec partage des revenus de vente.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1y0mH_HWWrR1RlEH-lwKuAZA5cdeseaEb",
-    "titre": "Contrat de consultation pour la conception d_un site internet.docx"
+    "titre": "Contrat de consultation pour la conception d_un site internet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1RDH2At-kkRvH4xjQN-7PChf63YwtXgq3",
-    "titre": "Contrat de copropriété de marque.docx"
+    "titre": "Contrat de copropriété de marque.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rbk54OHWNdfbGTSCtey8ME_HTdX-XQsv",
-    "titre": "Contrat de création de lien vers un site internet.docx"
+    "titre": "Contrat de création de lien vers un site internet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10fonuyYhl0GS0jFA5FDTMWkAkom35z5M",
-    "titre": "Contrat de création de liens gratuits.docx"
+    "titre": "Contrat de création de liens gratuits.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xygVlafKa4nh315rrrRouBTSzV9A9b-g",
-    "titre": "Contrat de développement de logiciel et services conseils.docx"
+    "titre": "Contrat de développement de logiciel et services conseils.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13zES_vI7W0PVFm8tLd58y7rinoYfiF3a",
-    "titre": "Contrat de dissolution de société.docx"
+    "titre": "Contrat de dissolution de société.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bfNJTOS9TK7xp-yKNptfW1pg_TL9Ni3X",
-    "titre": "Contrat de distribution.docx"
+    "titre": "Contrat de distribution.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1NTT2QOyt3bBFceBKok279UB4F4vR-KqW",
-    "titre": "Contrat de fourniture de contenu.docx"
+    "titre": "Contrat de fourniture de contenu.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZqkvAYLU_TgrffSGgoEUvMgi1uGSdaG3",
-    "titre": "Contrat de garantie.docx"
+    "titre": "Contrat de garantie.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_WLCVVuk7ZSF35MeDDpNsKKTs5H_NIjv",
-    "titre": "Contrat de gestion immobilière.docx"
+    "titre": "Contrat de gestion immobilière.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13a7smZarjwJqj7eHfKVdGJaprlNF6GYk",
-    "titre": "Contrat de licence d_oeuvre musicale.docx"
+    "titre": "Contrat de licence d_oeuvre musicale.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iqtZdanKEoB3wAsRWKv7i09Pl2xetjSA",
-    "titre": "Contrat de licence d_utilisateur final de logiciel.docx"
+    "titre": "Contrat de licence d_utilisateur final de logiciel.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1j4xnmPJoJa0VI5IqV6lTQc4fACf_y6pr",
-    "titre": "Contrat de licence de brevet.docx"
+    "titre": "Contrat de licence de brevet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BavKCPUGMLsUeHusypf_V2YjDfGz-bG1",
-    "titre": "Contrat de licence de logiciel (orienté client).docx"
+    "titre": "Contrat de licence de logiciel (orienté client).docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HWNLvo7g1iuPnVpbTRmSprJB5CrgW3Nr",
-    "titre": "Contrat de licence de logiciel (orienté fournisseur).docx"
+    "titre": "Contrat de licence de logiciel (orienté fournisseur).docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17v5ivaeAGNMvuKfjz7WGWkRxQfp_wn-e",
-    "titre": "Contrat de licence de logiciel (orienté propriétaire).docx"
+    "titre": "Contrat de licence de logiciel (orienté propriétaire).docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14UluF_qyAuMpnH0LTwh5qqcdYgF0gxV7",
-    "titre": "Contrat de licence de marque de commerce.docx"
+    "titre": "Contrat de licence de marque de commerce.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18JuU8HIROp0cD5YDv8WUx0rsHjmy6uCh",
-    "titre": "Contrat de licence de vidéoclip.docx"
+    "titre": "Contrat de licence de vidéoclip.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18CLqquE7nP2GrqAQn2E2wmZO0YbRiMIk",
-    "titre": "Contrat de location d_équipement.docx"
+    "titre": "Contrat de location d_équipement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gd6FAy9wOX_9CYFiwlwVzbMn1NoL15Hd",
-    "titre": "Contrat de location de matériel informatique.docx"
+    "titre": "Contrat de location de matériel informatique.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gyPJWsjTLKjOk4ulb8t9H0mMtDNSrkj3",
-    "titre": "Contrat de maintenance d_équipement.docx"
+    "titre": "Contrat de maintenance d_équipement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SzmiBhdJLGTgR3QNdPWoEvu3P6SAXg1M",
-    "titre": "Contrat de médiation et d_arbitrage.docx"
+    "titre": "Contrat de médiation et d_arbitrage.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-zhtPNoRmmRf6oiX5JJPW4Q_2OKxphBW",
-    "titre": "Contrat de médiation.docx"
+    "titre": "Contrat de médiation.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Cg6TntxiF9Y0PVWd5Z6dNO0nIuZnMpUJ",
-    "titre": "Contrat de nomination d_avocat-conseil.docx"
+    "titre": "Contrat de nomination d_avocat-conseil.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15IlWUI5Yr7OV8HTvofBETxCMeQ2eRKxG",
-    "titre": "Contrat de non-concurrence.docx"
+    "titre": "Contrat de non-concurrence.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1h-1viuFcd4Mkk-XuOC-vJP2Fw1G606Pa",
-    "titre": "Contrat de non-divulgation et de confidentialité pour site Internet.docx"
+    "titre": "Contrat de non-divulgation et de confidentialité pour site Internet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WDjXmwbYaWIrM7cCr-ddlNndEMx0fpN7",
-    "titre": "Contrat de non-divulgation_version bêta.docx"
+    "titre": "Contrat de non-divulgation_version bêta.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1k_cm7KtdQEbynekX-2pW1Bv0PzJX1LjF",
-    "titre": "Contrat de partenariat_version courte.docx"
+    "titre": "Contrat de partenariat_version courte.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1CxYqY_IZCWuLIZFOJka5zCNB88gC_VQt",
-    "titre": "Contrat de partenariat_version longue.docx"
+    "titre": "Contrat de partenariat_version longue.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WSxRetzWWitQyr2UUaAwXVqk1SENb8Da",
-    "titre": "Contrat de placement d_équipement.docx"
+    "titre": "Contrat de placement d_équipement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11_RGJCbYCILtQOuMg7tZGTROSW1lwpnO",
-    "titre": "Contrat de préconstitution de société.docx"
+    "titre": "Contrat de préconstitution de société.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1d9SSjNSd3TYi5NckGQJNCXbGMsg1XcdC",
-    "titre": "Contrat de prestation de services informatiques.docx"
+    "titre": "Contrat de prestation de services informatiques.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zGW0kVnW1vx_XRwBIRadg1gcds_k8I41",
-    "titre": "Contrat de programme d_affiliation.docx"
+    "titre": "Contrat de programme d_affiliation.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1a-qIFdXqmfeCd-seaWrFEvEEtR3OQgKz",
-    "titre": "Contrat de promotion de site internet.docx"
+    "titre": "Contrat de promotion de site internet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ARfatkeMOAYmBXcGqaUHQLEt5X9lgmgL",
-    "titre": "Contrat de résiliation de bail commercial.docx"
+    "titre": "Contrat de résiliation de bail commercial.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1O-M8U3NPPaFdsBgQznCEFW5LnxSqs7HD",
-    "titre": "Contrat de séparation et d_acquitement.docx"
+    "titre": "Contrat de séparation et d_acquitement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZbyfOc76TgvX5PHVSULTeD88hehDaFEB",
-    "titre": "Contrat de service de publicité par internet.docx"
+    "titre": "Contrat de service de publicité par internet.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WHZGAO92BWG83RBGVXCh2-FnkgdMw4jI",
-    "titre": "Contrat de service en ligne.docx"
+    "titre": "Contrat de service en ligne.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1raPPhjDYXKm5Embo9qqXLhLlgv1hmdUV",
-    "titre": "Contrat de services administratifs et de développement technologique.docx"
+    "titre": "Contrat de services administratifs et de développement technologique.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Q5rD_33GklNWESgfA1vDEebOexZbjYgV",
-    "titre": "Contrat de société en commandite simple.docx"
+    "titre": "Contrat de société en commandite simple.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZTOI0HGSxJZ70nMI7-oKRH_4_Ij0AWJh",
-    "titre": "Contrat de sous-location avec consentement du propriétaire.docx"
+    "titre": "Contrat de sous-location avec consentement du propriétaire.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VFJpBxO_WmRCLjCDdiCK7iKgZMjjujpq",
-    "titre": "Contrat de sous-location.docx"
+    "titre": "Contrat de sous-location.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14suDFuk1Yct_o-vaTvWS_VI7cUFXbiVC",
-    "titre": "Contrat de sous-traitance de services administratifs et de développement technologique.docx"
+    "titre": "Contrat de sous-traitance de services administratifs et de développement technologique.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1J9amhNeou_CtxPhAptAjodxGjPKIivS4",
-    "titre": "Contrat de sûreté portant sur les droits d_auteur.docx"
+    "titre": "Contrat de sûreté portant sur les droits d_auteur.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cDGfUSahNZl2FxBjBLkv4uSGdoV3LW3G",
-    "titre": "Contrat de sûreté_version courte.docx"
+    "titre": "Contrat de sûreté_version courte.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wKCB2FTh6DpM0gnoJeS3WJdSZPazLaZ6",
-    "titre": "Contrat de sûreté_version longue.docx"
+    "titre": "Contrat de sûreté_version longue.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SpSL_0Iiej3tEi2XPBl5P7DrH_Dyyw_J",
-    "titre": "Contrat de transfert de technologie.docx"
+    "titre": "Contrat de transfert de technologie.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13d2K3yvN779l7kmc7Ewaqd3pDsxo0Gx6",
-    "titre": "Contrat de travail à distance.docx"
+    "titre": "Contrat de travail à distance.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1U-ZgJ2PJHDe3Xe1bm8A2oZ5hOVcr_pyQ",
-    "titre": "Contrat de travail avec un cadre.docx"
+    "titre": "Contrat de travail avec un cadre.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1v2QyK3VPDgwLosWlNrnEpooDS-GZ-7Vx",
-    "titre": "Contrat de travail avec un employé autonome.docx"
+    "titre": "Contrat de travail avec un employé autonome.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cMKGn02LKQDl5DU6HtEPKsN4-hYV25tT",
-    "titre": "Contrat de travail avec un employé clé.docx"
+    "titre": "Contrat de travail avec un employé clé.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1pKBFbbi0nyt1lXLhMCqEtnXguGFA9Ve4",
-    "titre": "Contrat de travail avec un employé technicien.docx"
+    "titre": "Contrat de travail avec un employé technicien.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ga_pd8WZclG6z9n-9yJtzxv98utmkqar",
-    "titre": "Contrat de travail_Cas général.docx"
+    "titre": "Contrat de travail_Cas général.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ragPNUAHgSSUuc6dwjTSGoksewUWvvVj",
-    "titre": "Contrat de vente avec sûreté.docx"
+    "titre": "Contrat de vente avec sûreté.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hjNJ44z5O-aXwcfikNc-WBiWBDEH3hYg",
-    "titre": "Contrat de vente conditionnelle.docx"
+    "titre": "Contrat de vente conditionnelle.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gDRFFgvlHduPaWiMVK-mtnspMbbgKkPz",
-    "titre": "Contrat de vente d_équipement.docx"
+    "titre": "Contrat de vente d_équipement.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QANcQwpQ91G-hFCo5ypYulWXrVL0fUIt",
-    "titre": "Contrat de vente de biens.docx"
+    "titre": "Contrat de vente de biens.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vXS3hbLUoKWDSaDWaed12CoKymB2xlpM",
-    "titre": "Contrat de vente de propriété commerciale.docx"
+    "titre": "Contrat de vente de propriété commerciale.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1REIK7DTKxwGaYDdVGxk3psizedpSXig8",
-    "titre": "Contrat de vente de propriété intellectuelle.docx"
+    "titre": "Contrat de vente de propriété intellectuelle.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11cvvz7QhF61qR_vxVCqej4zWYCVpWSzc",
-    "titre": "Contrat de vente de stock.docx"
+    "titre": "Contrat de vente de stock.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sCiicOD5nGq4Y9-8vT3zVzhjn3lJ0yip",
-    "titre": "Contrat sur effet convertible.docx"
+    "titre": "Contrat sur effet convertible.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VKZnz1wvPJAgmJyFtXNsyOQzw7Hpujhu",
-    "titre": "Contrat sur les informations confidentielles.docx"
+    "titre": "Contrat sur les informations confidentielles.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18sm6iW-IC6ztvgz1JB2N6CVpfZqlwPcn",
-    "titre": "Contrat sur les informations personnelles et les inventions.docx"
+    "titre": "Contrat sur les informations personnelles et les inventions.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1w-6BL6y6CnGqngSyelO0me45dkCNRLAA",
-    "titre": "Déclaration sous serment de perte de certificat d_action.docx"
+    "titre": "Déclaration sous serment de perte de certificat d_action.docx",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FBR4yvLHS46w4tO9PkS63ImOktJ-tkjM",
-    "titre": "5 minutes pour convaincre.pdf"
+    "titre": "5 minutes pour convaincre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "188HneWn5fH0Xb4QeMkcj3P5AQFRGs5s5",
-    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf"
+    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1scb3WbzVkUaKp6vkmSoAd7JLZAjoUJ7E",
-    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf"
+    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Jc2VnCdqOcy-5FYVFlVFHee2NTBdrbpZ",
-    "titre": "Cultiver son Leadership .pdf"
+    "titre": "Cultiver son Leadership .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YRGej0ZVipU1VxlrQ8-cytKTJU5NL3lr",
-    "titre": "CULTURE_D'ENTREPRISE_UN_ACTIF_STRATEGIQUE_@CahiersJaunes.pdf"
+    "titre": "CULTURE_D'ENTREPRISE_UN_ACTIF_STRATEGIQUE_@CahiersJaunes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1m0tqJoqNQDfZIJwN3neeg5kRBOvJNEQF",
-    "titre": "Générations Y & Z.pdf"
+    "titre": "Générations Y & Z.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VnMJP48s7jzYe_T6Sn_SieaZyKJpVha7",
-    "titre": "guide du leadership.pdf"
+    "titre": "guide du leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1uJjETUq5iJ1l-kqQRjzwdFCeRisoflBA",
-    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf"
+    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18fqK-ZvOErGpwRmi7gW96KCJupGgdrxy",
-    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf"
+    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lvy4NL7TLRSLk7X6gFTqSflriC16kH9p",
-    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf"
+    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1UtPY32NOhI36xFxeSpE78kB6mofO69pY",
-    "titre": "L'art de la guerre Sun Tzu.pdf"
+    "titre": "L'art de la guerre Sun Tzu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18_l5ZH_z0G6WBtXdePCoHp4YiSQqyTyD",
-    "titre": "L'art de négocier avec la méthode Harvard.pdf"
+    "titre": "L'art de négocier avec la méthode Harvard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16d2IdJH1v8sbxqojEcCy563-P8ZOg8Ya",
-    "titre": "L'art subtil de s'en foutre.pdf"
+    "titre": "L'art subtil de s'en foutre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xdB2MOivuD5pR7DWZdToXM0QxWLwFiC5",
-    "titre": "l'investisseur intelligent.pdf"
+    "titre": "l'investisseur intelligent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1NrGHh8k2FNVmmKWIUtYTPr80NWsrD1cZ",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1OxX_UxAAlSq4PnvAHGbJ0wDvuEM5UPuv",
-    "titre": "La prodigieuse machine à vendre.pdf"
+    "titre": "La prodigieuse machine à vendre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cjw4AsT0YEicoYkoaovqkYl31FIRC4Iz",
-    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf"
+    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rtSVWgEypjWhnPiCnfhNmvuGEFdcbgfe",
-    "titre": "La_boite_a_outils_du_leadership.pdf"
+    "titre": "La_boite_a_outils_du_leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1W6APbSQ-vMJ_y5DPtNNLE9zpdBYOGbsB",
-    "titre": "La_Mega_Boite_a_Outils_du_Manager_Leader_Pascale_Belorgey.pdf"
+    "titre": "La_Mega_Boite_a_Outils_du_Manager_Leader_Pascale_Belorgey.pdf",
+    "auteur": "Pascale Belorgey",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KxdTwm96QjLK-kpa5te9j9XSFHjG9Cz-",
-    "titre": "Le grand livre du marketing digital.pdf"
+    "titre": "Le grand livre du marketing digital.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1pTEneUXW8bdOO3zSOIp7JKwAWWIz-hIC",
-    "titre": "Le Leadership  Franck Riboud.pdf"
+    "titre": "Le Leadership  Franck Riboud.pdf",
+    "auteur": "Franck Riboud",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-2CREsZ5BVUoApjJELctOi-RWSdSFRYX",
-    "titre": "Le Management Pour Les Nuls.epub"
+    "titre": "Le Management Pour Les Nuls.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FihjTg0YnBh1PdHp62zQf-aoNlPpruxN",
-    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf"
+    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf",
+    "auteur": "Dallys-Tom Medali",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sjJiAhRY1rFy6IXBCST73dRNVp4l6M3-",
-    "titre": "Le plan marketing vite et bien.pdf"
+    "titre": "Le plan marketing vite et bien.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ayvee7OumGmIDng8NowyXKPxbbXTruO5",
-    "titre": "Le Prix de la réussite (French Edition) (2).pdf"
+    "titre": "Le Prix de la réussite (French Edition) (2).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Kh2IuTAdQOPCNcj_v0r_9BKpLZs7ra_O",
-    "titre": "les 48 lois du pouvoir .pdf"
+    "titre": "les 48 lois du pouvoir .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19dVpWOBHLFgS9Ktknihc0UB86P4K3x4p",
-    "titre": "Les 50 règles d'or du Management de Jean-Paul Guedj.pdf"
+    "titre": "Les 50 règles d'or du Management de Jean-Paul Guedj.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1fyb-wcjeCsv_radpsnYIoMZOBH7Z1tjN",
-    "titre": "Les lois de la nature humaine.pdf"
+    "titre": "Les lois de la nature humaine.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1I0P9mTpWOdb-j3-XwYMgWylNwhRrPGGe",
-    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf"
+    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1K96WPOrOiza-W3qzCV9adWhIhI1JnyIC",
-    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf"
+    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iSzm8YZX92lGDskbeKibkRGh-Uphdh94",
-    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KHn39k-kgG6lwsNpdrDdY_jp0KsImbX4",
-    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dROMRMF4cpxFHM-4JTP9mmlOvKdhNnXb",
-    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1eWSjlqRI5Ss81IlqUUJhofpRKz3DdFra",
-    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1mCC42FJCN4Pes9fjZajwPFZq2GdjPkXi",
-    "titre": "Les-7-Cles-Du-Leadership-by-Philippe-Wattier-Z-lib-org.pdf"
+    "titre": "Les-7-Cles-Du-Leadership-by-Philippe-Wattier-Z-lib-org.pdf",
+    "auteur": "Philippe Wattier",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YO840vL5jgCouazoUWP6_Qv54kK8Ht3x",
-    "titre": "Management.pdf"
+    "titre": "Management.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZC9xektA9L8GvJ_fi0cGs69iRu2zlTJf",
-    "titre": "Manipuler et séduire.epub"
+    "titre": "Manipuler et séduire.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Dk4Aybd69LC0Me0PaIAuxvdtBrx8YFM1",
-    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf"
+    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf",
+    "auteur": "Patrick Amar",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sg-xleF-LJeUobdvt5QoE0c0J5LjSZXB",
-    "titre": "Stratégie - Les 33 lois de la guerre  - Robert Greene.pdf"
+    "titre": "Stratégie - Les 33 lois de la guerre  - Robert Greene.pdf",
+    "auteur": "Robert Greene",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nGu1B_qldcspkBRMdUEcW8Lxbp4gEEZY",
-    "titre": "Technologie, Innovation, Stratégie – De l’innovation technologique à l’innovation stratégique, de Pascal Corbel.pdf"
+    "titre": "Technologie, Innovation, Stratégie – De l’innovation technologique à l’innovation stratégique, de Pascal Corbel.pdf",
+    "auteur": "Pascal Corbel",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Rq7qO_hjV74q7RUlYmohd5gZnWeY5N1G",
-    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf"
+    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf",
+    "auteur": "Curtis Jackson",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1D0rxvdbGi_aFKSXeDpG_lP0w0lVLK4l9",
-    "titre": "The Leader Who Had No Title – Robin Sharma.pdf"
+    "titre": "The Leader Who Had No Title – Robin Sharma.pdf",
+    "auteur": "Robin Sharma",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "182tjpebp4vIXJe64D1vS6rvmpOdNYt95",
-    "titre": "The_50th_Law_-_Robert_Greene.pdf"
+    "titre": "The_50th_Law_-_Robert_Greene.pdf",
+    "auteur": "Robert Greene",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16sxmq7nYK5NAsGO6RbtunrO1CtM3zsXs",
-    "titre": "The_6_Figure_Speaker_Brian_Tracy.pdf"
+    "titre": "The_6_Figure_Speaker_Brian_Tracy.pdf",
+    "auteur": "Brian Tracy",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zsavuegDmUMDGVu1En9WIuNNZnY0zjqF",
-    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf"
+    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf",
+    "auteur": "Donald J. Trump",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1t91dzkxeJQU1KHTK838FtzYE-INZzLSW",
-    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf"
+    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zYvFrnoCxRtc06AuD306iwbaVOLXIzIo",
-    "titre": "Vendre ou Perdre - Grant Cardone.pdf"
+    "titre": "Vendre ou Perdre - Grant Cardone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ktW8fqhJCzLcwag1-kwJ4aKFTu4TqeBP",
-    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf"
+    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FvvGaZDPYDZnC2X5uM4qBTy6eyXGPm9Z",
-    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf"
+    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yETxBgIgjLqxvkihMfutBS_RDpebd-EI",
-    "titre": "Devenir auto-entrepreneur pour les Nuls – Grégoire Leclercq & Marie Gouilly-Frossard.pdf"
+    "titre": "Devenir auto-entrepreneur pour les Nuls – Grégoire Leclercq & Marie Gouilly-Frossard.pdf",
+    "auteur": "Grégoire Leclercq & Marie Gouilly-Frossard",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DetZFjjW4_We4cO644kofwnBlYfOMgZM",
-    "titre": "Générations Y & Z.pdf"
+    "titre": "Générations Y & Z.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13OuA0anm8U67xm6pJVxua_e-2q-zffce",
-    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf"
+    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1RLL2Rfo4nehY6YlxISsA0P4nwCyfRN24",
-    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf"
+    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tL8EQImGaNBU8_vBj7vC8v2LiS5lIse2",
-    "titre": "L'art de négocier avec la méthode Harvard.pdf"
+    "titre": "L'art de négocier avec la méthode Harvard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IR-S1qqIWjhzzCqPVYbO0D4MK4Gj01KK",
-    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub"
+    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1q4a4AzExWh6L9oVkdoOq0vlBX-6jfhAJ",
-    "titre": "L'autoroute du millionnaire.pdf"
+    "titre": "L'autoroute du millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1n0DbDms4DZlNeeglO9X319CzjLtjCMa0",
-    "titre": "L'Entreprise du 21 ème siècle Robert kyosaki.pdf"
+    "titre": "L'Entreprise du 21 ème siècle Robert kyosaki.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1X48rRZT0yp2k-T5A9GGdmh-AAUl0tydR",
-    "titre": "La prodigieuse machine à vendre.pdf"
+    "titre": "La prodigieuse machine à vendre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-ihY7mfSH-loUYbUyuVwDpHT4by3dQdB",
-    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf"
+    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1w6ogho2HObXFc2tPQgkydyZ1TsTx5JQo",
-    "titre": "la-chevre-de-ma-mere.pdf"
+    "titre": "la-chevre-de-ma-mere.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13jdS2mkrQcytRwkLeod8-XWV92k_rClE",
-    "titre": "le business plan du créateur d'entreprise.pdf"
+    "titre": "le business plan du créateur d'entreprise.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1b-dOL6cNKAw3qXLvdFa962s-1ZQQPw5p",
-    "titre": "Le grand livre du marketing digital.pdf"
+    "titre": "Le grand livre du marketing digital.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BmMGgVhxTjgezAjnvpD1WgWgEPwO1Uxy",
-    "titre": "Le Guide de l'Apprenti Millionnaire.pdf"
+    "titre": "Le Guide de l'Apprenti Millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iNWwfX9-L1HsxOxpzocnS5hpaQyhcJWo",
-    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf"
+    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tKbTnk5FCR3hPtpu09BlUvU3qkanS9h9",
-    "titre": "Le jaune et le noir Tidiane N'Diaye.pdf"
+    "titre": "Le jaune et le noir Tidiane N'Diaye.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1p0iSVnNXUCPEAxyhMsHA7PbymUKiiKea",
-    "titre": "Le Leadership  Franck Riboud.pdf"
+    "titre": "Le Leadership  Franck Riboud.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Hlp0qyIvkSudWtBroo3b-CbKvHLFNldJ",
-    "titre": "Le Loup de Wall Street – Jordan Belfort.pdf"
+    "titre": "Le Loup de Wall Street – Jordan Belfort.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1V77HKeJBA4tt7thynEwORhms-onu1kwb",
-    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf"
+    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1p5s2F9FNz8rK-37TK7fRujdNe0smaUjS",
-    "titre": "Le plan marketing vite et bien.pdf"
+    "titre": "Le plan marketing vite et bien.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TGHC0nkKloy53TH3sLn70fxZ7pA_lffF",
-    "titre": "Le Prix de la réussite (French Edition) (2).pdf"
+    "titre": "Le Prix de la réussite (French Edition) (2).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dStn3piDzV2DgnvPt5Y-Nx2i8CagMRra",
-    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf"
+    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf",
+    "auteur": "ROBERT KIYOSAKI",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1C0KZwoEpnWvTz7Za3okuxfCzslaY04cQ",
-    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf"
+    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DlJUYv3qkDmQPmZMadwzHzbOZ3zrSja6",
-    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "Napoléon Hill",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zP15Ak0N1YAE6kw06T-sZGjOhnNHwoSr",
-    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "Napoléon Hill",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10XEOgHHaEspXdvxoL0C2Z-xU40EYZpl6",
-    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf",
+    "auteur": "Napoléon Hill",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1O04iK3c43oEu_hoCVVVrSQpiIObDYYgC",
-    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "Napoléon Hill",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iT8OlrF5nBrwNfEsgz8ghQDu5fQ_zOq7",
-    "titre": "pere-riche-pere-pauvre.pdf"
+    "titre": "pere-riche-pere-pauvre.pdf",
+    "auteur": "ROBERT KIYOSAKI",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1OWHtVmCjQr0GNiDdxGnjjHEDv2BNQ2X3",
-    "titre": "Robert_Kiyosaki_Ecole_des_Affaires.pdf"
+    "titre": "Robert_Kiyosaki_Ecole_des_Affaires.pdf",
+    "auteur": "ROBERT KIYOSAKI",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DguwsjDcMRKd29G7y1eOXndzqwER_C2F",
-    "titre": "The_LeanStartup_HowTodaysEntrepreneursUseContinuousInnovationto.pdf"
+    "titre": "The_LeanStartup_HowTodaysEntrepreneursUseContinuousInnovationto.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lJcUBOlLYBFI-NlLgFe93CnSK4dmgCjh",
-    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf"
+    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf",
+    "auteur": "Donald J. Trump",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1U0EXWCRIVFThbSkFAXhPmyUxfL7gwxiI",
-    "titre": "Un pied a l'école, un pied dans les affaires.pdf"
+    "titre": "Un pied a l'école, un pied dans les affaires.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19jope6_ZuYngWRyTep-U0UNmCxCYgbPr",
-    "titre": "Vendre ou Perdre - Grant Cardone.pdf"
+    "titre": "Vendre ou Perdre - Grant Cardone.pdf",
+    "auteur": "Grant Cardone",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dbuUvKdqm5xy2S-DQFaD2U4GTdz2Ezd4",
-    "titre": "Cours de droit des instruments de paiement et de crédit.pdf"
+    "titre": "Cours de droit des instruments de paiement et de crédit.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rRtUByggI4gye34wO_Jg7NRmNrqvPUlo",
-    "titre": "Droit civil - Les sûretés, la publicité foncière – Philippe Simler & Philippe Delebecque.pdf"
+    "titre": "Droit civil - Les sûretés, la publicité foncière – Philippe Simler & Philippe Delebecque.pdf",
+    "auteur": "Philippe Simler & Philippe Delebecque",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kOO0mOy4tB0YC0lFfGlZjT84y9hGJP1u",
-    "titre": "Droit_commercial_–_Georges_Decocq_&_Aurélie_Ballot_Léna.pdf"
+    "titre": "Droit_commercial_–_Georges_Decocq_&_Aurélie_Ballot_Léna.pdf",
+    "auteur": "Georges Decocq & Aurélie Ballot Léna",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KHRESGvDYoneiIU8T8CoPYXGIHhrXkCj",
-    "titre": "Fiscalité_2015_2016_–_32_exercices_corrigés_impôt_sur_le_revenu.pdf"
+    "titre": "Fiscalité_2015_2016_–_32_exercices_corrigés_impôt_sur_le_revenu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vxha_Zi4IPIt_a639VZWqqOTMMqV-OuZ",
-    "titre": "L'essentiel du droit des sociétés Béatrice et Francis Grandguillot.pdf"
+    "titre": "L'essentiel du droit des sociétés Béatrice et Francis Grandguillot.pdf",
+    "auteur": "Béatrice et Francis Grandguillot",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16xLfVRRWV2SWr1QEmL2EZZTt790QOj5s",
-    "titre": "Le nouveau droit de l’arbitrage et de la médiation en Afrique (OHADA) – Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua.pdf"
+    "titre": "Le nouveau droit de l’arbitrage et de la médiation en Afrique (OHADA) – Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua.pdf",
+    "auteur": "Narcisse Aka, Alain Fénéon & Jean-Marie Tchakoua",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DOBwn8aebgv7g0uv3xSVNvwBSdYJQK3i",
-    "titre": "Marchés financiers.pdf"
+    "titre": "Marchés financiers.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1h-hB_eQPKM5YAdvfEaEuFM7xKCQTWvTI",
-    "titre": "5 minutes pour convaincre.pdf"
+    "titre": "5 minutes pour convaincre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1udV2NZ-38M1eBDxY0XV-XqKVIKt7SJf1",
-    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf"
+    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf",
+    "auteur": "Paul Ekman",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1OifIyrwwl8YmyCgd1SrSLcsokFvTQcU_",
-    "titre": "La_bible_de_la_négociation_Alexis_Kyprianou.pdf"
+    "titre": "La_bible_de_la_négociation_Alexis_Kyprianou.pdf",
+    "auteur": "Alexis Kyprianou",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1OLSLy0GByjEn2G5erImIZ3SIa7BWEYQA",
-    "titre": "Le_grand_livre_de_la_négociation_Maurice_A_Bercoff,_Jean_Charles.pdf"
+    "titre": "Le_grand_livre_de_la_négociation_Maurice_A_Bercoff,_Jean_Charles.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11XtkbRH077XI48Ry93vuHqWNWvC9hgPr",
-    "titre": "les 48 lois du pouvoir .pdf"
+    "titre": "les 48 lois du pouvoir .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10Y_ZewAAOMzuZU9TmHfnycHecbnS2HII",
-    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf"
+    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ukeps8dgIPrRCh366zCXSzqt7DUC1yvl",
-    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf"
+    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15XgFWfjYDvutrQpJRC-ekGDKV7Y7fBTb",
-    "titre": "Le Livre Noir du Terrorisme.pdf"
+    "titre": "Le Livre Noir du Terrorisme.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15tQgQtPILgSVOMsUHqY08ApS7uBp5mzZ",
-    "titre": "Les outils de l'audit interne.pdf"
+    "titre": "Les outils de l'audit interne.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1E6zF3GrKEFZP4CtuRm2jzx5pW28alozT",
-    "titre": "Le Jeune Entrepreneur Africain (Tome 1) – Claudel Noubissie.pdf"
+    "titre": "Le Jeune Entrepreneur Africain (Tome 1) – Claudel Noubissie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ap_SpJMkA0ROxEWQW_7ilp2NpoOSio8z",
-    "titre": "analyse et traitement des signaux.pdf"
+    "titre": "analyse et traitement des signaux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1a_LfHBfgj59gnwt1p0vN9nWrNyxNaq_A",
-    "titre": "Fonctions d'une variable de Didier Müller.pdf"
+    "titre": "Fonctions d'une variable de Didier Müller.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nHlhVFLIxGqBOc72JNgRyuURySwk0a7Y",
-    "titre": "Robert Moyer & al. - Trigonometry.pdf"
+    "titre": "Robert Moyer & al. - Trigonometry.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "12kxIxJOMnU-74azWulm5M9jb51wOzuj8",
-    "titre": "Les Voies de la lumière : Physique et métaphysique du clair-obscur – Trinh Xuan Thuan.pdf"
+    "titre": "Les Voies de la lumière : Physique et métaphysique du clair-obscur – Trinh Xuan Thuan.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1P8JgUCnKTctVW2K7FpjpxFig82vL-Nfg",
-    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf"
+    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1v6L19vnn4Yr1WThzCv9jeiivtJuJ-L52",
-    "titre": "Ces gestes qui vous changeront la vie.pdf"
+    "titre": "Ces gestes qui vous changeront la vie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XL89iEJx-ban7EbCIkwkNcxh6jw_eQS0",
-    "titre": "Comment retrouver toute son énergie.pdf"
+    "titre": "Comment retrouver toute son énergie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1v3RwByL3ErCzhjWS3GF8DzdAKh-JQYUe",
-    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf"
+    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BPk3rbQcwqlS_EfWUYwoWrfZp3wnVaGO",
-    "titre": "Du cancer on peut guérir ! – Père Romano Zago.pdf"
+    "titre": "Du cancer on peut guérir ! – Père Romano Zago.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13uof2iifV87Qned_sXRPPdy7SeRAzzV2",
-    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf"
+    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dLUhtCA5zGgu20ne5tm0rh52mGruE3TW",
-    "titre": "L'estime_de_soi_saimer_pour_mieux_vivre_avec_les_autres_Christophe.pdf"
+    "titre": "L'estime_de_soi_saimer_pour_mieux_vivre_avec_les_autres_Christophe.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PJREKUqJSL94tBw4ZVxtAbNLQHCxqnXq",
-    "titre": "L'interprétation du rêve – Sigmund Freud.pdf"
+    "titre": "L'interprétation du rêve – Sigmund Freud.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aNgfkAQBBwGBzqE8O4pd7K6nVxL3j-yU",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xVfuDaTCY73q1ovBUhVufzPQPQFWWWAF",
-    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf"
+    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ENQDKsT73uS2gib6hPgYbDbEYCMxY3A2",
-    "titre": "Le cerveau de Bouddha.Pdf"
+    "titre": "Le cerveau de Bouddha.Pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jc0WiwLIniy24JfdM0ZomZ_NWd6ZsbiO",
-    "titre": "Le Petit Livre du sommeil  (Dr Chennaoui).pdf"
+    "titre": "Le Petit Livre du sommeil  (Dr Chennaoui).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jT6_MvBFO-baOi4GrnfmHcSjsAbmXGC1",
-    "titre": "Le sommeil, c’est la santé : Dormir, c’est la préserver de Florence Heimburger.pdf"
+    "titre": "Le sommeil, c’est la santé : Dormir, c’est la préserver de Florence Heimburger.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wvy_J3fuC1PzN1Kbi731rpUvlBunAKdE",
-    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf"
+    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1JNh3t3lRMA6IvNLYV-a6A487oP7gHc_N",
-    "titre": "Les Dix Commandements de l'Amour – Pabloemma (Emmanuel Ngon à Ngon).pdf"
+    "titre": "Les Dix Commandements de l'Amour – Pabloemma (Emmanuel Ngon à Ngon).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KQcMvMMfepGUzx-_amd6sAPiMQJGOSoc",
-    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf"
+    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1srjnoHG2m7ZD7RZQnJHD6J5Nm33yAz2O",
-    "titre": "Les secrets scientifique du coran.pdf"
+    "titre": "Les secrets scientifique du coran.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hlrSLU3AJbjMf3T286qqjO3AZ8iUdr_a",
-    "titre": "Les_100_lois_de_l_amour.pdf"
+    "titre": "Les_100_lois_de_l_amour.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1z8Zovy5OQaw2wevrl9WB8Ddb9M6SdtE_",
-    "titre": "Manipuler et séduire.epub"
+    "titre": "Manipuler et séduire.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PQ0NsSZl0Xa6fHlvZZFisYoQ9_BmV2hJ",
-    "titre": "MÉDITER, jour aprés jour.pdf"
+    "titre": "MÉDITER, jour aprés jour.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1s_EcqzcxFD1ptl-cgJa0E8NgktVJDfh4",
-    "titre": "Reinventez votre vie - Arnaud Collery.pdf"
+    "titre": "Reinventez votre vie - Arnaud Collery.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wjjfBXb8CPNzYa2-m-GsYxKqHD58Fzvm",
-    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf"
+    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PETlOQAVIXAA9Pz8bxxpTqboK712cCFO",
-    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf"
+    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wX4o4QTesppOSjFagwYbkutKD3Cg8rzu",
-    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf"
+    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HqgIhdz1LrTfm7EzrHxZchoygyXfqDfX",
-    "titre": "ABC du chamanisme.pdf"
+    "titre": "ABC du chamanisme.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xaGAjVQ3dzo3K4pMsexIHnxHfJPKfLKS",
-    "titre": "Accepte-Toi. joyce Meyer.pdf"
+    "titre": "Accepte-Toi. joyce Meyer.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ow-OUfUIiNAY55BV4OyAnRVyKSdSOK8W",
-    "titre": "Demandez à DEEPAK, L’AMOUR et LES RELATIONS de Deepak Chopra.epub"
+    "titre": "Demandez à DEEPAK, L’AMOUR et LES RELATIONS de Deepak Chopra.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KyGebMUy4e9sh1hqm1RMB_IMJxI1DZVf",
-    "titre": "Demandez et vous recevrez.pdf"
+    "titre": "Demandez et vous recevrez.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lzGLD1bX7DcCGQSevM08XxDibUibmJiz",
-    "titre": "Dieu la science les preuves - Michel Bollore @EpubsFR.epub"
+    "titre": "Dieu la science les preuves - Michel Bollore @EpubsFR.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10nASbd55yvA8OumlEtRfAtJf9jRPM14P",
-    "titre": "Du cancer on peut guérir ! – Père Romano Zago.pdf"
+    "titre": "Du cancer on peut guérir ! – Père Romano Zago.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13s-jTQ3_sFK1Rd3ClvwfGTNqCbpjFmVP",
-    "titre": "Énergie vitale et autoguérison – Mantak Chia.pdf"
+    "titre": "Énergie vitale et autoguérison – Mantak Chia.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vnnmx-EyyEb7OyIFiaRf5FVZcjzXUC9p",
-    "titre": "Invitation à la joie : Essai sur la théologie de Josef Ratzinger de Mgr Joseph Murphy.pdf"
+    "titre": "Invitation à la joie : Essai sur la théologie de Josef Ratzinger de Mgr Joseph Murphy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XVMY3HI5M7OJa97PmKoGgiH3w9nV5cWz",
-    "titre": "L'homme qui voulait être heureux.pdf"
+    "titre": "L'homme qui voulait être heureux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1RyI4lBuchE9xjmlOwMChIUA1h3v6KuD7",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MOgYcz5U4-9T6A96MbBL5YnUKR7cDyxx",
-    "titre": "Le cerveau de Bouddha.Pdf"
+    "titre": "Le cerveau de Bouddha.Pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bN5bpSGj9ThUNSDHVkw4QURmiilgW5OR",
-    "titre": "Le Guide des vertus traditionnelles des plantes et autres produits naturels.pdf.pdf"
+    "titre": "Le Guide des vertus traditionnelles des plantes et autres produits naturels.pdf.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BfF13ldzf7yGeENgdt3jIpOltmwoT8hR",
-    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub"
+    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FMnSTpiaaeKKUso_yeVJbCNimPjNAhZU",
-    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf"
+    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_DStpJJoXuotoeYoQf1_yStVB5nGnX2X",
-    "titre": "Le-Livre-Des-Trois-Intelligences.pdf"
+    "titre": "Le-Livre-Des-Trois-Intelligences.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hDPk4bybCwW3I_ezgecnpmkcggULp_46",
-    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf"
+    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ySRr6rAcLGSqFUTDpnlV4pY_o7Qimwts",
-    "titre": "Les secrets scientifique du coran.pdf"
+    "titre": "Les secrets scientifique du coran.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1JawQNP7AD8MutdVjX-o7iO9WhXMmA06o",
-    "titre": "Les Sept Lois spirituelles du succès – Deepak Chopra.pdf"
+    "titre": "Les Sept Lois spirituelles du succès – Deepak Chopra.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cy4vjj2W8YJ2TsIKtkG3JFQEZQhHtBUg",
-    "titre": "Les thérapies quantiques ( Dr Bodin).pdf"
+    "titre": "Les thérapies quantiques ( Dr Bodin).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1P05TME4vDCvSpW8b1Uuo5iYzEkEw5UBv",
-    "titre": "Maintenant, je peux voir clair - Wayne W. Dyer.epub"
+    "titre": "Maintenant, je peux voir clair - Wayne W. Dyer.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HZ8Am8Bovb914CX2eoXPCCNDxREbZZQe",
-    "titre": "MÉDITER, jour aprés jour.pdf"
+    "titre": "MÉDITER, jour aprés jour.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TuWm7fg6Qxm4_F1nUcss8zf5F-rpePCX",
-    "titre": "Nietzsche - Le voyageur et son ombre.pdf"
+    "titre": "Nietzsche - Le voyageur et son ombre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FYNTxEhp700L926x56wAQdzCQs_KmkLJ",
-    "titre": "Petit_traite_de_sagesse_bouddhi_Xavier_Cornette_de_Saint_Cyr.pdf"
+    "titre": "Petit_traite_de_sagesse_bouddhi_Xavier_Cornette_de_Saint_Cyr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vtvJmXwJvRBTWbSP2sjUrzKB3gjrnCV2",
-    "titre": "Rompre avec soi-même - Joe Dispenza.pdf"
+    "titre": "Rompre avec soi-même - Joe Dispenza.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1g8vGn1YC35q1AVx8PLEo5at2cg8Qr4Sy",
-    "titre": "Steiner_Rudolf_Le_devenir_humain_Ame_et_esprit_de_l'univers.pdf"
+    "titre": "Steiner_Rudolf_Le_devenir_humain_Ame_et_esprit_de_l'univers.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1i3sjqj3LFcf4OAH4zLXldpAZyva2QQry",
-    "titre": " Sortir du trou, lever la tête de Maïa Mazaurette.pdf"
+    "titre": " Sortir du trou, lever la tête de Maïa Mazaurette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14svhJsmVkG2y7hjgnoFL-0W4p7XLDNG9",
-    "titre": "Faire_l'amour_à_un_homme_Des_Pierre_Esseintes_Petit_livre_de_2013.pdf"
+    "titre": "Faire_l'amour_à_un_homme_Des_Pierre_Esseintes_Petit_livre_de_2013.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-ayhGAuyVIan7JOENYAA70UQP42QDo8g",
-    "titre": "L'éducation à la sexualité – Philippe Brenot (Collection Que sais-je ?).epub"
+    "titre": "L'éducation à la sexualité – Philippe Brenot (Collection Que sais-je ?).epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FLQtMn0smmsM2-zp1G-xqDHqEvnBAdV6",
-    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf"
+    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AMdItQty9x-IExtS9AqJg2cUqO1MzXzy",
-    "titre": "Comment retrouver toute son énergie.pdf"
+    "titre": "Comment retrouver toute son énergie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ht4cW7fExzjwb9sJ856dddZx_RvHgfwM",
-    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf"
+    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rWZUA_Gp4kEEeEMeJCim599-rqZBForX",
-    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf"
+    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10DakmOzxsXkapwueSMEzmjJQld4pn6YC",
-    "titre": "La vie et demie.pdf"
+    "titre": "La vie et demie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13gEy95KNiBnlgtrlY16sUvk3hR8XkzwL",
-    "titre": "Le Petit Livre du sommeil  (Dr Chennaoui).pdf"
+    "titre": "Le Petit Livre du sommeil  (Dr Chennaoui).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1fwl98qivM5ca6IS8OBvCX9L4jyYBevw-",
-    "titre": "Le sommeil, c’est la santé : Dormir, c’est la préserver de Florence Heimburger.pdf"
+    "titre": "Le sommeil, c’est la santé : Dormir, c’est la préserver de Florence Heimburger.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yPyY9GOshTS1VPNp40R-KV7UsDageyzr",
-    "titre": "LES SOLEILS DES INDEPENDANCES.pdf"
+    "titre": "LES SOLEILS DES INDEPENDANCES.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1NkilXXvzFjgjXCaXQSP6t7NNjyIHdDQV",
-    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf"
+    "titre": "Soignez-vous avec les produits de la ruche  (Cardinault).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13ol1Sa25qfO-jsqnkgmP8ymXF32y5bT4",
-    "titre": "Comment retrouver toute son énergie.pdf"
+    "titre": "Comment retrouver toute son énergie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1P2xIJ9PIbaEl2hj_O3WGyAspJb6NFiWS",
-    "titre": "Vivez-mieux-et-plus-longtemps-Michel-Cymes-z-lib.org_.pdf"
+    "titre": "Vivez-mieux-et-plus-longtemps-Michel-Cymes-z-lib.org_.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wdEpI8aTIOLjuMZQp1Tyltbl9DbXfN2g",
-    "titre": "Claude Simon - Le Sacre du printemps.pdf"
+    "titre": "Claude Simon - Le Sacre du printemps.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1W_9z7Iztu5BJD_xOQasn5vETwvKAef4q",
-    "titre": "Günter Grass - Le Chat et La Souris.pdf"
+    "titre": "Günter Grass - Le Chat et La Souris.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gtNicTaC0if00xBZqZuU524r0Z6e8efZ",
-    "titre": "Kundera, Milan - Les Testaments Trahis (Gallimard) (2020).pdf"
+    "titre": "Kundera, Milan - Les Testaments Trahis (Gallimard) (2020).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "12PqbyDH6R98RNikbttl6EHnUUoAWr24s",
-    "titre": "La Bataille de Pharsale de Claude Simon.pdf"
+    "titre": "La Bataille de Pharsale de Claude Simon.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GbXcpP2tf_kO8IV6BsR4WoNmaYip4Swc",
-    "titre": "La Route des Flandres de Claude Simon.pdf"
+    "titre": "La Route des Flandres de Claude Simon.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ElXgs0BRjFhqZ1G2Yu0ASAayT8s-r7Xa",
-    "titre": "Le_premier_jour_du_reste_de_ma_vie_by_Grimaldi_Virginie_z_lib_org.pdf"
+    "titre": "Le_premier_jour_du_reste_de_ma_vie_by_Grimaldi_Virginie_z_lib_org.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1klu1r0tQAWL6i-SMEe7Aa0DE_4Kk3Mps",
-    "titre": "Les Identités meurtrières d’Amin Maalouf.pdf"
+    "titre": "Les Identités meurtrières d’Amin Maalouf.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1E1Y-EhSl9MasLWuTFM4VTosZ71oVHtwC",
-    "titre": "Les_chefs_d'oeuvre_du_crime_Jacques_Bergier_et_Jacques_Ster.pdf"
+    "titre": "Les_chefs_d'oeuvre_du_crime_Jacques_Bergier_et_Jacques_Ster.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FqRRtHhJyZJdLrrlPg0jTuSgsbGFFNSU",
-    "titre": "Prostitution de Pierre Guyotat.pdf"
+    "titre": "Prostitution de Pierre Guyotat.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1L_-_VV7Zftk_CWibKTKuWFhpmBdQDkaG",
-    "titre": "The Elephant's Journey de José Saramago.pdf"
+    "titre": "The Elephant's Journey de José Saramago.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KcXG8sx_fzTjgsyTZeGQ8L4RgfD6tYb2",
-    "titre": "Troubles de femmes – Collectif (Régine Deforges, Françoise Rey, et al.).pdf"
+    "titre": "Troubles de femmes – Collectif (Régine Deforges, Françoise Rey, et al.).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TUkcwfcn3dVHUVR6EQisoYNw2tYsGVxd",
-    "titre": "Chambre 7 – Faty Dieng.pdf"
+    "titre": "Chambre 7 – Faty Dieng.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EhdPwvCVXlPmyZgVJkiT8setz1l2H_QB",
-    "titre": "Ken Bugul - La pièce d'or.pdf"
+    "titre": "Ken Bugul - La pièce d'or.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17QOVmOpU16mGX_arewZoxWe1kc36ej0W",
-    "titre": "L’Enfant noir – Camara Laye.pdf"
+    "titre": "L’Enfant noir – Camara Laye.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11xSfhlaHeW6Is7LDQHehkH8jNT2xuYfu",
-    "titre": "Le Manuscrit inachevé (Franck THILLIE... (Z-Library).pdf"
+    "titre": "Le Manuscrit inachevé (Franck THILLIE... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Om1xiE7NiC2GcHup3hBqeyklIY85jSIr",
-    "titre": "LE VIEUX NEGRE ET LA MEDAILLE.pdf"
+    "titre": "LE VIEUX NEGRE ET LA MEDAILLE.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KFs4U8npZ85HlHsx7JQzax9hczB4YZNY",
-    "titre": "Un piège sans fin – Olympe Bhêly-Quenum.pdf"
+    "titre": "Un piège sans fin – Olympe Bhêly-Quenum.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VIUwzghBYc_ofWq8z06cJUOYX-1rIWJH",
-    "titre": "D'un écrit vain – Henri Raczymow.pdf"
+    "titre": "D'un écrit vain – Henri Raczymow.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1l6oHhXh5hsdzzdfdlhKwHar4Q3lhw-uP",
-    "titre": "Dieu la science les preuves - Michel Bollore @EpubsFR.epub"
+    "titre": "Dieu la science les preuves - Michel Bollore @EpubsFR.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1h2jHZ_u6lTDiKg96UhspJ8-7VRD58uqb",
-    "titre": "Invitation à la joie : Essai sur la théologie de Josef Ratzinger de Mgr Joseph Murphy.pdf"
+    "titre": "Invitation à la joie : Essai sur la théologie de Josef Ratzinger de Mgr Joseph Murphy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jqZshDoklThdfG8wEWuh6qeZ1idqWGCf",
-    "titre": "Ken Bugul - La pièce d'or.pdf"
+    "titre": "Ken Bugul - La pièce d'or.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-7acssWftk6zrKdydb3PVM1uf43IkjL2",
-    "titre": "Kundera, Milan - Les Testaments Trahis (Gallimard) (2020).pdf"
+    "titre": "Kundera, Milan - Les Testaments Trahis (Gallimard) (2020).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qjg1PuPuKCNtcY7u2DIgWFRW6oaK7kQx",
-    "titre": "L'emprise - Marc Endeweld.epub"
+    "titre": "L'emprise - Marc Endeweld.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qyEvosigtU7QInxtuRJIroctsdKRFFxp",
-    "titre": "L’idéologie néolibérale : ses fondements, ses dégâts de Claude Simon.pdf"
+    "titre": "L’idéologie néolibérale : ses fondements, ses dégâts de Claude Simon.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FyeK7loewh_pdrXJKkP0Bt9a0hj46zSV",
-    "titre": "La défaite de l’Occident (Emmanuel Todd).pdf"
+    "titre": "La défaite de l’Occident (Emmanuel Todd).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VcNkOU6hB6z1IM4cva55mFHu3ry2kuxm",
-    "titre": "La violence – Regards croisés sur une réalité plurielle.pdf"
+    "titre": "La violence – Regards croisés sur une réalité plurielle.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13-P6NCabpKCLAe2P0lyvCGrsdJi1UuqV",
-    "titre": "Le jaune et le noir Tidiane N'Diaye.pdf"
+    "titre": "Le jaune et le noir Tidiane N'Diaye.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1k7LhAVcdHYzPYH8Urqp7rvYZghGW9-J4",
-    "titre": "Le talent est une fiction .pdf"
+    "titre": "Le talent est une fiction .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ESNjX7RCyLy1Tw9-KdB4JSlSsPxxO2zb",
-    "titre": "LE VIEUX NEGRE ET LA MEDAILLE.pdf"
+    "titre": "LE VIEUX NEGRE ET LA MEDAILLE.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZjL1BUtUaOIqpTAQactnzvKQh-eTkxVp",
-    "titre": "Les Lois de Murphy.pdf"
+    "titre": "Les Lois de Murphy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1I_tvK1-DM6na_uFQulP9VzBJ5EnvvilJ",
-    "titre": "Les secrets scientifique du coran.pdf"
+    "titre": "Les secrets scientifique du coran.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15jXo1lvteqXxYEi9G4US-gzMkMG5slxW",
-    "titre": "Nietzsche - Le voyageur et son ombre.pdf"
+    "titre": "Nietzsche - Le voyageur et son ombre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KZUEtEjoYGEHStvzakaBkF9PaoQywmLv",
-    "titre": "Thomas Sankara & Thomas Ziegler - Discours sur La Dette.pdf"
+    "titre": "Thomas Sankara & Thomas Ziegler - Discours sur La Dette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DkRmx9tcaiBH2jHJkzitBMa8kEZETEJn",
-    "titre": "Une histoire populaire de l’humanité – Chris Harman.pdf"
+    "titre": "Une histoire populaire de l’humanité – Chris Harman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10mwnsryJG0TwH3YuKZYncM30S6jAMbZE",
-    "titre": "Une histoire populaire de l'humanité_Chris Harman.pdf"
+    "titre": "Une histoire populaire de l'humanité_Chris Harman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Wwzg8t9nV9-fxKmCgUz_XY5ZbWYoLjH9",
-    "titre": "L_Afrique-en-200-proverbes-Virginie-Ehonian.pdf"
+    "titre": "L_Afrique-en-200-proverbes-Virginie-Ehonian.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17Fc7ALJtYPAEaCM0anB7_OuaB51wAPty",
-    "titre": "banta-et-la-tortue-qui-chante.pdf"
+    "titre": "banta-et-la-tortue-qui-chante.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17iS41WYPze872PcKZ7syalIDCIf6BuqN",
-    "titre": "comment-le-lion-devint-roi.pdf"
+    "titre": "comment-le-lion-devint-roi.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17tysZ03c1PEOaI2zC6ygyp7Wh534OHI8",
-    "titre": "comment-les-anes-apparurent-en-haiti.pdf"
+    "titre": "comment-les-anes-apparurent-en-haiti.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17j6zfJfvVP-u8UAAYtzrpZhY3MBgGVGk",
-    "titre": "fari-l-anesse.pdf"
+    "titre": "fari-l-anesse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1890y1Hloze6DDitAqzdYk9dtcVP1FH0y",
-    "titre": "gol-les-singes-et-leur-chef.pdf"
+    "titre": "gol-les-singes-et-leur-chef.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18J2GmUsNfXnvzxA-Umuh9yyojeFT2p0P",
-    "titre": "janot-le-cuisinier-du-roi.pdf"
+    "titre": "janot-le-cuisinier-du-roi.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "186Pg-wzVdAtBVTIsjqHkX7xFcFqhyF9z",
-    "titre": "l-elephant-et-le-herisson.pdf"
+    "titre": "l-elephant-et-le-herisson.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18-2y81M4urjJvvBajEyDWkUSasIAUJMm",
-    "titre": "l-orphelin-et-les-mechants-villageois.pdf"
+    "titre": "l-orphelin-et-les-mechants-villageois.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18GdXV8o3Zi-BikGDAk5jlHiqQfLNH2QE",
-    "titre": "la-chevre-et-le-vieillard.pdf"
+    "titre": "la-chevre-et-le-vieillard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18IujoGVJDwNnwDgZ8NTuJVYi_vG30aoL",
-    "titre": "la-jeune-femme-la-tourterelle-et-le-vieux-caiman.pdf"
+    "titre": "la-jeune-femme-la-tourterelle-et-le-vieux-caiman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16V0oCBEJT0rspE_kppPbwiUiPHx9oIPe",
-    "titre": "la-mounou-de-la-faleme.pdf"
+    "titre": "la-mounou-de-la-faleme.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16bZUb0a_bJF9laeDUeXRh1B4QJVZ8Zv2",
-    "titre": "la-naissance-de-brise-montagne.pdf"
+    "titre": "la-naissance-de-brise-montagne.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18Am0uAb7A3uoT0oug_OhaugjJmQ7qvlk",
-    "titre": "la-ruse-de-gaynde-le-lion.pdf"
+    "titre": "la-ruse-de-gaynde-le-lion.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18Itk3dZv7o4lPYoDnWXGdKaReMwxpUww",
-    "titre": "le-canari-merveilleux.pdf"
+    "titre": "le-canari-merveilleux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17Q9A1ylEhZkog9Hs0czGAlTEBxc8LL-E",
-    "titre": "le-chasseur-et-le-genie-voleur-de-femmes.pdf"
+    "titre": "le-chasseur-et-le-genie-voleur-de-femmes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17RXYX4utCzZk6vBmbb7I_o2DpM7i-Ow5",
-    "titre": "le-devouement-de-yamadou-have.pdf"
+    "titre": "le-devouement-de-yamadou-have.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17UX1Y9MTwj2jU2M5P9QwyfDGZC7Fv_tG",
-    "titre": "le-jeune-homme-et-le-lion.pdf"
+    "titre": "le-jeune-homme-et-le-lion.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17dN-KsE5KlenHoWRylghRHZ7gd7CWHBp",
-    "titre": "le-lion-et-le-herisson.pdf"
+    "titre": "le-lion-et-le-herisson.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "177D5tFO_4XqOR7xS-uNGuFvAcpz2I5Yb",
-    "titre": "le-pari-de-ti-jean.pdf"
+    "titre": "le-pari-de-ti-jean.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "186ZneqgUgUhhhj2VuC4Xoe6yeLRYjnkW",
-    "titre": "le-pari-du-singe-et-du-lievre.pdf"
+    "titre": "le-pari-du-singe-et-du-lievre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17CKRf9w1mj-rTtStUP_3MRb1QSGkZjKO",
-    "titre": "le-rire-du-phacochere.pdf"
+    "titre": "le-rire-du-phacochere.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18YntqdPMklh-xUXI0BrHP99ziB3MHuye",
-    "titre": "le-roi-et-ses-enfants.pdf"
+    "titre": "le-roi-et-ses-enfants.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16mDf3NDaH9vuxQcugUbR55twjXZ5CV3V",
-    "titre": "lenfant-crapaud-et-simbi (1).pdf"
+    "titre": "lenfant-crapaud-et-simbi (1).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17A2RsWCQURu0QMmJik-C_btTyPzfHBAu",
-    "titre": "les-funerailles-du-grand-calao.pdf"
+    "titre": "les-funerailles-du-grand-calao.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "179JKktz1Xuomye2vF2eG_PGiEpGAwCc6",
-    "titre": "les-moities.pdf"
+    "titre": "les-moities.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18JJmfl4lMk_jdnzBZAnNmB5HbefD12i4",
-    "titre": "les-trois-amis.pdf"
+    "titre": "les-trois-amis.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "188AEV0yVQ13B6WgYWE8WUAE9Jw5NLgkG",
-    "titre": "les-trois-verites-de-bouc.pdf"
+    "titre": "les-trois-verites-de-bouc.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11fWYqB0TKotg6V_u8QjbG4p5vqd1h-SV",
-    "titre": "mariko-le-chasseur-têtu-et-liguane-deau.pdf"
+    "titre": "mariko-le-chasseur-têtu-et-liguane-deau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16vtIDEQCWUN27AEGGaBvLpOIdDE7jFF3",
-    "titre": "monplaisir.pdf"
+    "titre": "monplaisir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16pVHz3KynBIR4PKo_AChCPWTgEWdfW4X",
-    "titre": "papabondieu-lhomme-et-le-tigre.pdf"
+    "titre": "papabondieu-lhomme-et-le-tigre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "174ptMhiyT8Ck35USsae8BqdMQmb8evcn",
-    "titre": "pourquoi-bouki-la-hyene-a-peur-du-chameau.pdf"
+    "titre": "pourquoi-bouki-la-hyene-a-peur-du-chameau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16rdY173uT0Yr7tZtTq4e0T2ermuTimoE",
-    "titre": "pourquoi-le-cheval-ne-parle-t-il-pas.pdf"
+    "titre": "pourquoi-le-cheval-ne-parle-t-il-pas.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16pIDKxbWkUK6oJ0sgpV2P2NZDsg8BaWV",
-    "titre": "pourquoi-lelephant-a-peur-du-coq.pdf"
+    "titre": "pourquoi-lelephant-a-peur-du-coq.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16oq3dd4V9FYD9EgbSFFZCjffY3gk2Gpr",
-    "titre": "quand-le-lion-epousa-la-brebis.pdf"
+    "titre": "quand-le-lion-epousa-la-brebis.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18jh9f2MCEut8OXwt8sh5NZsEroWboUCW",
-    "titre": "qui-peut-aide-a-mettre-cette-charge-sur-ma-tete.pdf"
+    "titre": "qui-peut-aide-a-mettre-cette-charge-sur-ma-tete.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18JDLfqFoCyvufc2ZrJmpJI61sH8tZdvH",
-    "titre": "un-malheur-ne-vient-jamais-seul.pdf"
+    "titre": "un-malheur-ne-vient-jamais-seul.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WU-O5vecS4ZE2JWjEXlRantEjO11GaG2",
-    "titre": "conte-amerique-le-genie-de-la-foret.pdf"
+    "titre": "conte-amerique-le-genie-de-la-foret.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1mc3kc2JfzqtZ4s7QHB8HMGNqLYilLjZs",
-    "titre": "conte-animalier-loiseau-et-la-poule.pdf"
+    "titre": "conte-animalier-loiseau-et-la-poule.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DbUM2A9Wu-fQKM37cf9hGolkyUHzJxd2",
-    "titre": "conte-asie-le-choulame.pdf"
+    "titre": "conte-asie-le-choulame.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1N8lDuxSN9ZC_6En6__lMvv8VC3ugH-l6",
-    "titre": "conte-asie-le-cruel-empereur.pdf"
+    "titre": "conte-asie-le-cruel-empereur.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ojl0pggJISyHt-vzdSCgcazRHj427gsB",
-    "titre": "conte-asie-le-grandpere-qui-faisait-fleurir-les-arbres.pdf"
+    "titre": "conte-asie-le-grandpere-qui-faisait-fleurir-les-arbres.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jC8p-iOtl5wn09R_Z0K4vLuQQEEAG1WR",
-    "titre": "conte-asie-le-petit-chacal-et-le-chameau.pdf"
+    "titre": "conte-asie-le-petit-chacal-et-le-chameau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DydxgApnO3bqmKowz389eccRUtgZ_ets",
-    "titre": "conte-autrichien-elsi-et-le-peuple-de-leau.pdf"
+    "titre": "conte-autrichien-elsi-et-le-peuple-de-leau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1t472phZ0th3GcwqiAmuB1Aj88QTU0M6t",
-    "titre": "conte-berbere-le-chacal-et-le-herisson.pdf"
+    "titre": "conte-berbere-le-chacal-et-le-herisson.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gUCh2IRnWVt0gMK8WQuwmNDP6RrsTH13",
-    "titre": "conte-berbere-le-garcon-et-les-autruches.pdf"
+    "titre": "conte-berbere-le-garcon-et-les-autruches.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17ReWwZrK5qO7eMruo-MJswvFisGGIcdh",
-    "titre": "conte-chine-comment-mer-devenue-salee.pdf"
+    "titre": "conte-chine-comment-mer-devenue-salee.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1C_jv4fV4H9pXU18gjfbZC86zjSV5kRPe",
-    "titre": "conte-chinois-le-reve-de-tao.pdf"
+    "titre": "conte-chinois-le-reve-de-tao.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1A_d6lsza0kNW0AVDnpwbukjxd9GqJ2cV",
-    "titre": "conte-coree-lhabit-de-plumes-de-la-fee.pdf"
+    "titre": "conte-coree-lhabit-de-plumes-de-la-fee.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wzN6Fy3S-U_pgVfotfkMbH7AzEpjOZlr",
-    "titre": "conte-grec-le-prince-de-sucre.pdf"
+    "titre": "conte-grec-le-prince-de-sucre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1W2Kfmug98ravEJB9PGOiYiCkZ-ICb472",
-    "titre": "conte-inde-le-tigre-le-brahmine-et-le-petit-chacal.pdf"
+    "titre": "conte-inde-le-tigre-le-brahmine-et-le-petit-chacal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1UMxGO2CZMMMJ3klgAcNu4qY3oRvpVqPb",
-    "titre": "conte-indien-celui-qui-nen-faisait-qua-sa-tete.pdf"
+    "titre": "conte-indien-celui-qui-nen-faisait-qua-sa-tete.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IaaD1UjfeU1F8mbgUViuCTqCwPre-3xo",
-    "titre": "conte-indien-la-femme-devoreuse-dhommes.pdf"
+    "titre": "conte-indien-la-femme-devoreuse-dhommes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15P28O5DvymQOGsb5ekbHMz_NuswiY3fI",
-    "titre": "conte-indien-le-brahmane-et-la-deesse-durga.pdf"
+    "titre": "conte-indien-le-brahmane-et-la-deesse-durga.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lE_zGhwVCI0mKZjVDmm34vsFR90GHUZd",
-    "titre": "conte-inuit-le-geant-et-lhomme.pdf"
+    "titre": "conte-inuit-le-geant-et-lhomme.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Qqtraj40iIxZLAhV3N6uN--sml1rOaRF",
-    "titre": "conte-inuit-le-grand-corbeau-et-le-harfang-des-neiges.pdf"
+    "titre": "conte-inuit-le-grand-corbeau-et-le-harfang-des-neiges.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18yof_iMmSpIB6kgyurv6T42Ua2z9HFve",
-    "titre": "conte-inuit-legende-du-narval.pdf"
+    "titre": "conte-inuit-legende-du-narval.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1efcgjR4rG_JjWc83UvA-l_EutN7Rbl3l",
-    "titre": "conte-oceanie-le-pays-sans-fleurs.pdf"
+    "titre": "conte-oceanie-le-pays-sans-fleurs.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ADrVEeuPzPmTMTna7LxEDUCLcVtwzbvy",
-    "titre": "conte-oceanie-leau-de-la-terre.pdf"
+    "titre": "conte-oceanie-leau-de-la-terre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bTZYYHgdgciITQ7gDFLCKFLMJqnL14Q5",
-    "titre": "conte-russe-baba-yaga.pdf"
+    "titre": "conte-russe-baba-yaga.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xetfKmHN2eUG6X5b_geQ4bpjy6tBrsSu",
-    "titre": "conte-russe-la-cyclope-nommee-malheur.pdf"
+    "titre": "conte-russe-la-cyclope-nommee-malheur.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "12BiVtGPU6tmmtWgGf3N6gJhpfLpoaZlB",
-    "titre": "conte-russe-terechenka.pdf"
+    "titre": "conte-russe-terechenka.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1CTJvwIYcP44tIBQJV5TD5Lzffne1pSFa",
-    "titre": "andersen-cinq-dans-une-cosse.pdf"
+    "titre": "andersen-cinq-dans-une-cosse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SiokQbPUnWjpEhDSv4Ay7_6zW6IpZkd9",
-    "titre": "andersen-concours-de-saut.pdf"
+    "titre": "andersen-concours-de-saut.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1icvJm6cg3hmJsl-KBy97_bUQV63riz9T",
-    "titre": "andersen-coq-de-poulailler-coq-de-girouette.pdf"
+    "titre": "andersen-coq-de-poulailler-coq-de-girouette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tUifCZ_hZVPQButh2FUAfIqubPfjAo8Z",
-    "titre": "andersen-hans-le-balourd.pdf"
+    "titre": "andersen-hans-le-balourd.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xtskpMR9CmlLrsUhMcunkdq4z_GBqFqb",
-    "titre": "andersen-la-famille-heureuse.pdf"
+    "titre": "andersen-la-famille-heureuse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qqIoeePypJmEG5WtP5DQwYvSDLh-5bAH",
-    "titre": "andersen-la-paquerette.pdf"
+    "titre": "andersen-la-paquerette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rrphpBqegvm3qWKQx3i7eyaHUvRcl0BH",
-    "titre": "andersen-la-plume-et-lencrier.pdf"
+    "titre": "andersen-la-plume-et-lencrier.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ok12_pcpk7IDkXnLBuZ71fs3D6vKDdgH",
-    "titre": "andersen-la-tirelire.pdf"
+    "titre": "andersen-la-tirelire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MfQFQXN73Pt3YD8jGZdS8USI0o7O0bqh",
-    "titre": "andersen-le-papillon.pdf"
+    "titre": "andersen-le-papillon.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1D9vkSBJjDDblSShHRlAweCuXx7MaiRni",
-    "titre": "andersen-le-soleil-raconte.pdf"
+    "titre": "andersen-le-soleil-raconte.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11Dj3aIqsSh2VZjQUl07s41LKr7lHAr8L",
-    "titre": "andersen-les-amours-dun-faux-col.pdf"
+    "titre": "andersen-les-amours-dun-faux-col.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "121hjLLPtgGTz37j_xrAtmmZ0ldhs-Eno",
-    "titre": "andersen-les-coureurs.pdf"
+    "titre": "andersen-les-coureurs.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gB2j14YFls4uGneZBvQnqHO137cHYzrr",
-    "titre": "andersen-lescargot-et-le-rosier.pdf"
+    "titre": "andersen-lescargot-et-le-rosier.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yLIY25w408uJIia9ZVCQHNLDGGve00Qn",
-    "titre": "andersen-papotages-denfants.pdf"
+    "titre": "andersen-papotages-denfants.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1UpqlxCEYUOFOAwtU-PrSO7NTn5MMGsRt",
-    "titre": "L'essentiel de mécanique des fluides\" de Pascal Bigot, Richard Mauduit et Éric Wenner .pdf"
+    "titre": "L'essentiel de mécanique des fluides\" de Pascal Bigot, Richard Mauduit et Éric Wenner .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xoGz5eM-zX9OPbHQjeDM-ln0aT3OeyMQ",
-    "titre": "Physique de la conversion d’énergie de Jean-Marcel Rax.pdf"
+    "titre": "Physique de la conversion d’énergie de Jean-Marcel Rax.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1JvHYQZoZLcJoaj_TXgUrByLmL_O5lTth",
-    "titre": "L'essentiel de mécanique des fluides\" de Pascal Bigot, Richard Mauduit et Éric Wenner .pdf"
+    "titre": "L'essentiel de mécanique des fluides\" de Pascal Bigot, Richard Mauduit et Éric Wenner .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Gf7drh4NWebLF57Oy12i9p-6UrBJM6-j",
-    "titre": "La psychologie de l’intelligence – Jean Piaget.pdf"
+    "titre": "La psychologie de l’intelligence – Jean Piaget.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QHEVL-IFrIb4LVP2f9hwT3oeTlwTOVwy",
-    "titre": "La violence – Regards croisés sur une réalité plurielle.pdf"
+    "titre": "La violence – Regards croisés sur une réalité plurielle.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1oEXe7FdwE01NlGyn0tokp8YTzmDEoIKJ",
-    "titre": "Nadine Gordimer - A Sport of Nature.pdf"
+    "titre": "Nadine Gordimer - A Sport of Nature.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1JT6yE-TFxsnZPZnzlc0SMpbjyUh6uhen",
-    "titre": "Physique de la conversion d’énergie de Jean-Marcel Rax.pdf"
+    "titre": "Physique de la conversion d’énergie de Jean-Marcel Rax.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14FgTKrI5kuizKhHDI6wbDxhJ9MzHtFfI",
-    "titre": " Introduction au droit 2023:2024 – Astrid Marais.pdf"
+    "titre": " Introduction au droit 2023:2024 – Astrid Marais.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HYTX13jKxfypSznjfWuezFQHiDEEc2RY",
-    "titre": "Comment développer votre attention et votre mémoire – Professeur Robert Tocquet.pdf"
+    "titre": "Comment développer votre attention et votre mémoire – Professeur Robert Tocquet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dtM5LOtUIQgq3G0USqUkP_glUpr-JcVO",
-    "titre": "Droit pénal – Procédure pénale – Jacques Borricand & Anne-Marie Simon.pdf"
+    "titre": "Droit pénal – Procédure pénale – Jacques Borricand & Anne-Marie Simon.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PMumL4IFqPcwSNRcBwptfU-agYz5quiZ",
-    "titre": "Je veux réussir mon droit – Isabelle Defrénois-Souleau.pdf"
+    "titre": "Je veux réussir mon droit – Isabelle Defrénois-Souleau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nJvU27yj6IYzM5oOCccGBjQsqeP23J9M",
-    "titre": "La psychologie de l’intelligence – Jean Piaget.pdf"
+    "titre": "La psychologie de l’intelligence – Jean Piaget.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aiRcQqqQzkkdVe4yr_Qu7E7hFVDCcIFL",
-    "titre": "Principes_de_base,_démontage_du_dossier,_montage_de_la_note,_dossier.pdf"
+    "titre": "Principes_de_base,_démontage_du_dossier,_montage_de_la_note,_dossier.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17tww607-PKMu6SFKeNesOdsxsYzRkMab",
-    "titre": "Se faire obéir par les enfants sans se fâcher – Isabelle Leclerc.pdf"
+    "titre": "Se faire obéir par les enfants sans se fâcher – Isabelle Leclerc.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1RwqHaYc0OvDgmMLP7T1rsDsaV0-iWuEF",
-    "titre": "Traité de psychologie de la motivation – Dirigé par Philippe Carré et Fabien Fenouillet.pdf"
+    "titre": "Traité de psychologie de la motivation – Dirigé par Philippe Carré et Fabien Fenouillet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nOeqszfYHHhv2j7VjPBav60qEgq-YbNy",
-    "titre": "Aspects de la civilisation africaine – Amadou Hampâté Bâ.pdf"
+    "titre": "Aspects de la civilisation africaine – Amadou Hampâté Bâ.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vyejejxjgB5lkfhOx0jrKpuDomr_dj-X",
-    "titre": "Au cœur des combats juridiques - Pensées et témoignages de juristes engagés – Sous la direction d'Emmanuel Dockès.pdf"
+    "titre": "Au cœur des combats juridiques - Pensées et témoignages de juristes engagés – Sous la direction d'Emmanuel Dockès.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17cbnCnLW58xjU33Jz4oE7lUvJsRC-KNT",
-    "titre": "Directs_du_droit_–_Éric_Dupond_Moretti_et_Stéphane_Durand_Souffland.pdf"
+    "titre": "Directs_du_droit_–_Éric_Dupond_Moretti_et_Stéphane_Durand_Souffland.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qB1OMjiie3NekeInk691a3EnSifhywLA",
-    "titre": "Droit constitutionnel - Hamon Francis et Troper Michel.pdf"
+    "titre": "Droit constitutionnel - Hamon Francis et Troper Michel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zh_SAdgVaf_UbdCWmEFPxxaqy0Mn4Bzv",
-    "titre": "Droit de l'urbanisme, droit de l'environnement - préparation au concours rédacteur territorial – Laure Aubril & Seydou Traoré.pdf"
+    "titre": "Droit de l'urbanisme, droit de l'environnement - préparation au concours rédacteur territorial – Laure Aubril & Seydou Traoré.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gL2h7TJtcGX9eQJCXxS2HEmcnHG5FBBc",
-    "titre": "Droit français de l'intégration européenne – Édouard Dubout & Béligh Nabli.pdf"
+    "titre": "Droit français de l'intégration européenne – Édouard Dubout & Béligh Nabli.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1R25lOXEZf1tdKGBraQioEk6wo0KCmyay",
-    "titre": "Droit international public  Tome 1 – Documents d’intérêt général.pdf"
+    "titre": "Droit international public  Tome 1 – Documents d’intérêt général.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Hx3i2nIO_5rG89wBpOnRj3HxrLHyLR-J",
-    "titre": "Droit, forêts et développement durable – Sous la direction de Michel Prieur & Stéphane Doumbé-Billé.pdf"
+    "titre": "Droit, forêts et développement durable – Sous la direction de Michel Prieur & Stéphane Doumbé-Billé.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jy44KiJwQm8Y4OJmYaXa0mhhPOJ1CGWB",
-    "titre": "Épistémologie juridique – Christian Atias.pdf"
+    "titre": "Épistémologie juridique – Christian Atias.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zedyHaagscV8g4mV6AA0Wkx4-2dugOIU",
-    "titre": "Fonctionnement de l'État – Gérard Bergeron.pdf"
+    "titre": "Fonctionnement de l'État – Gérard Bergeron.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Tgq7WMM_NWruZ_wprca9-ExldXrO_x-Z",
-    "titre": "Histoire des idées politiques - La pensée politique occidentale de l'Antiquité à nos jours – Olivier Nay.pdf"
+    "titre": "Histoire des idées politiques - La pensée politique occidentale de l'Antiquité à nos jours – Olivier Nay.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1B9gtDON443kljjJZ8goPDpG3Uan5iiHB",
-    "titre": "Histoire diplomatique de 1919 à nos jours – Jean-Baptiste Duroselle.pdf"
+    "titre": "Histoire diplomatique de 1919 à nos jours – Jean-Baptiste Duroselle.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_dD7zwkTDtH3MqbhyTtSfh2PYX0DgFnQ",
-    "titre": "Institutions internationales – Jean Charpentier.pdf"
+    "titre": "Institutions internationales – Jean Charpentier.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ccnoooQJCyIZ2agQpb8GIdHckUypOcGn",
-    "titre": "Introduction à la politique – Maurice Duverger.pdf"
+    "titre": "Introduction à la politique – Maurice Duverger.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lNO8IzSktgel1wbBGWbc-cnqLaKMFyQn",
-    "titre": "Introduction aux droits anglais et américain.pdf"
+    "titre": "Introduction aux droits anglais et américain.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1axD7kxWB7VZF0q9asQ3ZTJOa36EOwM8w",
-    "titre": "L'Afrique répond à Sarkozy : Contre le discours de Dakar – Dirigé par Makhily Gassama.epub"
+    "titre": "L'Afrique répond à Sarkozy : Contre le discours de Dakar – Dirigé par Makhily Gassama.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16s0PByL3SKtrxHtvwU1Ib9QdTJygdTCE",
-    "titre": "L'essentiel des relations internationales – Antoine Gazano (Éditions Gualino, Collection Les Carrés).pdf"
+    "titre": "L'essentiel des relations internationales – Antoine Gazano (Éditions Gualino, Collection Les Carrés).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wM6oYi2mHhbR-P6SGCXfib0HUClfhgBo",
-    "titre": "L'indispensable des notions politiques – Claire Girre & Xavier Girre.pdf"
+    "titre": "L'indispensable des notions politiques – Claire Girre & Xavier Girre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_GZyBR83CGoMyn5OhqCN3q00VVVjCLJm",
-    "titre": "La Cinquième République – Maurice Duverger.pdf"
+    "titre": "La Cinquième République – Maurice Duverger.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1g4wW1YQiUPH7ppXNgVhA0UoCRNTfcFkq",
-    "titre": "La Controverse. Dialogue sur l’islam – Rémi Brague & Souleymane Bachir Diagne.pdf"
+    "titre": "La Controverse. Dialogue sur l’islam – Rémi Brague & Souleymane Bachir Diagne.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZFmwr5LCpcOoqHNz29jMCYZGfUG2gUNA",
-    "titre": "La médition pénale en France et aux Etats unis-LGDJ-1998.pdf"
+    "titre": "La médition pénale en France et aux Etats unis-LGDJ-1998.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MPuqM8eTOgAfDB6UButpXFfMelmg_iWc",
-    "titre": "La VIe République et le régime présidentiel – Maurice Duverger.pdf"
+    "titre": "La VIe République et le régime présidentiel – Maurice Duverger.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XTUzIr4QrqkpCIkpcYrdyD_K3xpTaU9z",
-    "titre": "Le Droit international du développement – Alain Pellet.pdf"
+    "titre": "Le Droit international du développement – Alain Pellet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jOv8JjnMnfwUeuQpdUo_KNlXued4rcGg",
-    "titre": "Les grands courants de la philosophie du droit et de l'État – Albert Brimo.pdf"
+    "titre": "Les grands courants de la philosophie du droit et de l'État – Albert Brimo.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1egiRsmiMs5fuvQbQtj2xWksrV6fE49vg",
-    "titre": "Les grands procès du XXè siècle.pdf"
+    "titre": "Les grands procès du XXè siècle.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17sKlZhCWp_yHhWbef-mDS6xJ7dfop6QE",
-    "titre": "Les institutions de l'Union européenne – Stéphane Leclerc.pdf"
+    "titre": "Les institutions de l'Union européenne – Stéphane Leclerc.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ZKTY5vNPOYNUcs96UEi81KeY4SzCCuhd",
-    "titre": "Les sciences sociales en mutation – Michel Wieviorka (dir.).pdf"
+    "titre": "Les sciences sociales en mutation – Michel Wieviorka (dir.).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IJzhWWc3JSB3BV6E0VpblOfeae6U3j__",
-    "titre": "Les Vraies Lois de l'économie – Jacques Généreux.pdf"
+    "titre": "Les Vraies Lois de l'économie – Jacques Généreux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1edRlyKahzqZa_-cpJilOddnTlkIiBH2M",
-    "titre": "Petit_traité_de_manipulation_à_l’usage_des_honnêtes_gens_–_Robert.pdf"
+    "titre": "Petit_traité_de_manipulation_à_l’usage_des_honnêtes_gens_–_Robert.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XomzwgsnsvTZf8fY8JcSGCSYbN6E7BR5",
-    "titre": "Réflexions sur la question antisémite – Delphine Horvilleur.pdf"
+    "titre": "Réflexions sur la question antisémite – Delphine Horvilleur.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ce23mV7iMycsshvVI1DyVntGtkZGBk_9",
-    "titre": "Revue de droit d’Assas n°20 – Numéro spécial 10 ans - Un article, une matière.pdf"
+    "titre": "Revue de droit d’Assas n°20 – Numéro spécial 10 ans - Un article, une matière.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1psW3chIlUvPrZ1JF4eWm136IbidGn1QY",
-    "titre": "Revue_Africaine_de_Droit_de_l’Environnement_RADE_–_African_Journal.pdf"
+    "titre": "Revue_Africaine_de_Droit_de_l’Environnement_RADE_–_African_Journal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aTrrwpeP9or9593Y4mQBR5oWvsYUtTtr",
-    "titre": "Sociétés et terrorisme – Michel Wieviorka.pdf"
+    "titre": "Sociétés et terrorisme – Michel Wieviorka.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kB4OW3bsVKo7P1kZTw4us2YttgKiR8PR",
-    "titre": "Sociologie de la politique – Gaston Bouthoul.pdf"
+    "titre": "Sociologie de la politique – Gaston Bouthoul.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1mC1BOo6_6H3Q0gmbg-yUpU2EL3r5yaKe",
-    "titre": "Sociologie politique - Braud Philippe 12éd.pdf"
+    "titre": "Sociologie politique - Braud Philippe 12éd.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1oe6egCxfzeQ35PrcvWx8HySDKYalvpBD",
-    "titre": "De la stratégie marketing à la création publicitaire.pdf"
+    "titre": "De la stratégie marketing à la création publicitaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sIU5pUtrFjajAApE4emeQKQF51KdOsAs",
-    "titre": "Le grand livre du marketing digital.pdf"
+    "titre": "Le grand livre du marketing digital.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ew_WFSZ0KeObqAzDYGW7rC5lnkRD_lJM",
-    "titre": "Le marketing digital pour les nuls.pdf"
+    "titre": "Le marketing digital pour les nuls.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1mvMYygsWb9MnQbuG0lcZDB5XkwPyGaAS",
-    "titre": "Doublez vos contacts – Michael J. Durkin.pdf"
+    "titre": "Doublez vos contacts – Michael J. Durkin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13nolx5QcttK8Capf8EdWKyYwblIYUE3j",
-    "titre": "La prodigieuse machine à vendre.pdf"
+    "titre": "La prodigieuse machine à vendre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YwloeuTFmDW3TyPXcDsKcPZN2efKhng0",
-    "titre": "Unlimited_Sales_Success_Brian_Tracy.pdf"
+    "titre": "Unlimited_Sales_Success_Brian_Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vVpkWI3cesP0XOawYwcrsXQS7Hy3J_7e",
-    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf"
+    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AHRVnxEYcVeQLRMOkMyJHxJaEHJ8GDm0",
-    "titre": "5 minutes pour convaincre.pdf"
+    "titre": "5 minutes pour convaincre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qTTu9-61brGCWgpRHuA02_3F76fGNhNg",
-    "titre": "De la stratégie marketing à la création publicitaire.pdf"
+    "titre": "De la stratégie marketing à la création publicitaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15gFx_HfQ6Ap_ym_rmAAG4VuFRgpILLlU",
-    "titre": "La prodigieuse machine à vendre.pdf"
+    "titre": "La prodigieuse machine à vendre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hwa_TateYMUd-wJoYoXdhkSsuWrjAZGa",
-    "titre": "Le grand livre du marketing digital.pdf"
+    "titre": "Le grand livre du marketing digital.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hWf5Bdjt1Q-JOW8OU3W_HiIt4GIiGzVY",
-    "titre": "20 façons de booster instantanément votre motivation – David Laroche.pdf"
+    "titre": "20 façons de booster instantanément votre motivation – David Laroche.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EivIJhT10gjUJVmi-N0qJs_DI16NW3ea",
-    "titre": "Agir pour réussir.pdf"
+    "titre": "Agir pour réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_4lhJIaqX2dJBF4gBh9YzwR8rUNtuCRu",
-    "titre": "Charles_Pepin_Les_Vertus_de_l_Echec.pdf"
+    "titre": "Charles_Pepin_Les_Vertus_de_l_Echec.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xL9nc3lXKJ6y0gDxTcks-XR3gyf4no9W",
-    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf"
+    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16-5hKtUqYCWg9YPNSEK4OSMDnLG440M1",
-    "titre": "Demandez et vous recevrez.pdf"
+    "titre": "Demandez et vous recevrez.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jOaicTta6t8ujn_Kx4UKo8lwehNbV5MU",
-    "titre": "Just Shut Up and Do It: 7 Steps to Conquer Your Goals – Brian Tracy.pdf"
+    "titre": "Just Shut Up and Do It: 7 Steps to Conquer Your Goals – Brian Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XzVMCpTszZEhQ2Weo7VFriRwI7_XULi6",
-    "titre": "L’Alchimiste Paulo Coelho﻿.pdf"
+    "titre": "L’Alchimiste Paulo Coelho﻿.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1z_-638F6xkTBnGqyz-pmCCR1y2lvCf9r",
-    "titre": "L'art de la guerre Sun Tzu.pdf"
+    "titre": "L'art de la guerre Sun Tzu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1wOlxxKS4HaNKSBLtcS4vkL6R7jv9SXT1",
-    "titre": "L'art du Trading.pdf"
+    "titre": "L'art du Trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Mv94oudFMY4UDCABlBuQu0BMMXSIpY5J",
-    "titre": "L'autoroute du millionnaire.pdf"
+    "titre": "L'autoroute du millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-lkfERcPShtJBAQ9AbS5fv0-mS8Lb2PC",
-    "titre": "L'effet_cumulé,_décuplez_votre_réussite_Darren_Hardy.pdf"
+    "titre": "L'effet_cumulé,_décuplez_votre_réussite_Darren_Hardy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QoywWy48WpLQ3Fy4KhOg4SiB-qxTRfW3",
-    "titre": "l'investisseur intelligent.pdf"
+    "titre": "l'investisseur intelligent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1K0mlYM43P2ru0BH5FC5YuSM8Acqt-QIR",
-    "titre": "La clé du succès illimité – Joe Vitale.pdf"
+    "titre": "La clé du succès illimité – Joe Vitale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_ibK3GRG5uLvZSramnOopE_oJeBTduu7",
-    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf"
+    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kANJAIRodVOxK1KntHB_KxTw_sF0soHh",
-    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf"
+    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qbAkzqK7KL9glCimwJ7mXIUFeeSeH2MH",
-    "titre": "La science de la Grandeur (Wallace D__ (Z-Library).pdf"
+    "titre": "La science de la Grandeur (Wallace D__ (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10yhvs-DDjNDYoIodmV8d7gBtdtV4DNHO",
-    "titre": "La technique du succès.pdf"
+    "titre": "La technique du succès.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1UjItTGbYXOlnS6jkFFiZ5DI9hzMcuXsw",
-    "titre": "Le choix du courage.pdf"
+    "titre": "Le choix du courage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1R32zjmjuds-k5cyY5rK46D8ogyvAl4UE",
-    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf"
+    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1v8nxhbGeBSjBQuNHA4sl_9_we_AIfuDi",
-    "titre": "Le Mindset - 90% de la réussite.pdf"
+    "titre": "Le Mindset - 90% de la réussite.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1npcJ-Hd1u7MJSd-qEVH7MEpWW5AHyfUH",
-    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf"
+    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ux__dO4wBe9hXKfRXDJR5veNQfKomqF7",
-    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub"
+    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1r1Le2F5hYlGixHX8wdr-IxfV3RPIHs1A",
-    "titre": "les 48 lois du pouvoir .pdf"
+    "titre": "les 48 lois du pouvoir .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16rzSOxjMEtFmL-S2EinevqijbD6_gmEx",
-    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf"
+    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dxYoTRnO3Bs4CruwOg2ssYZK6xyoqqOZ",
-    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf"
+    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-nwC-NOLZpmuz_klhxRCmIMqmOke5z8W",
-    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iaSOeLe3GEr1wTNEgbtadeXpiy9xdcXq",
-    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1f2y3lwoZTf-c4W4n02uLRW3sPZWeKCuA",
-    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1M466Wz9ze1S29Dasag5Xwb3dL2gq4iH1",
-    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iXKi5aDJLj3YtLRw0gD4ry9vl-S5_n-m",
-    "titre": "Objectifs_Brian_Tracy.pdf"
+    "titre": "Objectifs_Brian_Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15_uPKyTqRjDXUr0rNPVDeXhVK2OBwhXt",
-    "titre": "Reprogrammez votre cerveau pour le succès – Slavica Bogdanov.pdf"
+    "titre": "Reprogrammez votre cerveau pour le succès – Slavica Bogdanov.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jt4dzwNgOdMt-5w73NFTOCveNotdcMFq",
-    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf"
+    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EVhDC_CONz3ID5KfKwmNqlUxhsvnDQGE",
-    "titre": "Stratégie - Les 33 lois de la guerre  - Robert Greene.pdf"
+    "titre": "Stratégie - Les 33 lois de la guerre  - Robert Greene.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yTjDLewpX-6Px_nsO7V2KwQ0ixH5iTXZ",
-    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf"
+    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Aitp25fg2Jo57C92icS-Qz-Rxj3KeABg",
-    "titre": "The_50th_Law_-_Robert_Greene.pdf"
+    "titre": "The_50th_Law_-_Robert_Greene.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1o-qGroV9y-znbytdRuoy4Op5qESposAh",
-    "titre": "Un pied a l'école, un pied dans les affaires.pdf"
+    "titre": "Un pied a l'école, un pied dans les affaires.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1x5_CKlpennOX7RyJuJzCXv3TgH844Mcd",
-    "titre": "Vendre ou Perdre - Grant Cardone.pdf"
+    "titre": "Vendre ou Perdre - Grant Cardone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1eJXzTPQTB7uBPuDEo9Zenjx9ioqNArrq",
-    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf"
+    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ssKXmU6IEl5XE5DmCU5mH5l9ii6W4uw-",
-    "titre": "Charles_Pepin_Les_Vertus_de_l_Echec.pdf"
+    "titre": "Charles_Pepin_Les_Vertus_de_l_Echec.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1I_aBGCBEwnf7rkGXaNVcGcQWOM6pTwS0",
-    "titre": "Comment_Attirer_le_Meilleur_Dans_Votre_Vie_William_Walker_Atkinson.pdf"
+    "titre": "Comment_Attirer_le_Meilleur_Dans_Votre_Vie_William_Walker_Atkinson.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Yt6t6043t-OWmMPXSM-4sgOBfFhH79nn",
-    "titre": "Conversation pour le développement personnel – Mark Bryan & Martina Clark.pdf"
+    "titre": "Conversation pour le développement personnel – Mark Bryan & Martina Clark.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MAiqRGMRKZ7pe2KGzG9jkpQUpNFsHriN",
-    "titre": "Dejouer_Pieges_Developpement_Personnel.pdf"
+    "titre": "Dejouer_Pieges_Developpement_Personnel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MOmRfh_1r-0XPmJgX7wNbl6K51cCRwBP",
-    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf"
+    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10KYXewjGcC5JbjqVxiQO-KLTPh-6xj7Q",
-    "titre": "L'art de négocier avec la méthode Harvard.pdf"
+    "titre": "L'art de négocier avec la méthode Harvard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1uE4nnoSPwrpAvuVD7YmQuIjJBPAUMLPm",
-    "titre": "L'homme qui voulait être heureux.pdf"
+    "titre": "L'homme qui voulait être heureux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "12Z9aJpvfFFw13IEQ0S6DRiG3j23tpPO4",
-    "titre": "La clé du succès illimité – Joe Vitale.pdf"
+    "titre": "La clé du succès illimité – Joe Vitale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FDjjy39WVmnh9233K3wGYfOj17gV9-sY",
-    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf"
+    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1XBDxePNqjtMLuJV6Hj3xw_3JsmJOkmOH",
-    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf"
+    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1pjoaF-uCMP4Vi-6myjMA7crgVkEf_GQ4",
-    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf"
+    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rj55D-VOXDW8N_ctVpIop2kOPJ9Hu5EQ",
-    "titre": "La Puissance de votre Subconscient – Joseph Murphy.pdf"
+    "titre": "La Puissance de votre Subconscient – Joseph Murphy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "164MPDjYsHDuuReDfksjmH6IR9yrV8HIf",
-    "titre": "Le cerveau de Bouddha.Pdf"
+    "titre": "Le cerveau de Bouddha.Pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1F8-QQ5X5q99cYbe4j7xojfASypHjzKXs",
-    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub"
+    "titre": "Le secret au quotidien (Byrne Rhonda) (Z-Library).epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1fhKDO0FrdjzDr1gjWEnY0DLChVv7RcFc",
-    "titre": "Le secret de l’Abondance & de la Prospérité – Wallace D. Wattles.pdf"
+    "titre": "Le secret de l’Abondance & de la Prospérité – Wallace D. Wattles.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cm8x8xidqortEoPjwqcYPuFfAYO_-Y3e",
-    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf"
+    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ujE5NpxIc_N9hfNLGGWUf29MkFDVejdY",
-    "titre": "Les lois de la nature humaine.pdf"
+    "titre": "Les lois de la nature humaine.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tVqAoE0tJRYCHLLVdw_OyjGjtwlfT855",
-    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf"
+    "titre": "Les secrets de la loi de l'attraction, c'est malin de Xavier Cornette de Saint Cyr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jfNKJhHXA6oMl-02Gufdey8qAqT2T1nH",
-    "titre": "Manipuler et séduire.epub"
+    "titre": "Manipuler et séduire.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kbTYOk9QkA_R6FcegnZO2urILR9cenhR",
-    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf"
+    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11j4UkZqgeChLJlzLCbXisp51I_vkK0Wb",
-    "titre": "Rompre avec soi-même - Joe Dispenza.pdf"
+    "titre": "Rompre avec soi-même - Joe Dispenza.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1S9_eh7dGWAeMKxxdKgurpLtJcicsBV5O",
-    "titre": "Trader avec succès grâce au neuro trading.pdf"
+    "titre": "Trader avec succès grâce au neuro trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1N2yOplSk5PGz_ylSK66HzlMLXhkXNNyY",
-    "titre": " Sortir du trou, lever la tête de Maïa Mazaurette.pdf"
+    "titre": " Sortir du trou, lever la tête de Maïa Mazaurette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rKle5MOZ3BvJAon8SSUK6AqM5ulbnHXm",
-    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf"
+    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hTCN8ynXQfgstWgfn7Y9s0s39CX8OW9I",
-    "titre": "Accepte-Toi. joyce Meyer.pdf"
+    "titre": "Accepte-Toi. joyce Meyer.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sEkngYLL66nFLhGLTod6WmCUCuzu2kfR",
-    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf"
+    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1p5uFkhFUgsbY2vmdfcjBUYzfLrVnn5p2",
-    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf"
+    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19pV4iP16T5T0h8SqHEK3FHhkiuR4uJHh",
-    "titre": "Ces gestes qui vous changeront la vie.pdf"
+    "titre": "Ces gestes qui vous changeront la vie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Oj0FH6ToggCTitP3CI5_r5fEXvAEfRYu",
-    "titre": "Comment se faire des amis.pdf"
+    "titre": "Comment se faire des amis.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HZhR61CsRwFm589tWf0R4iSVeeZfcYsg",
-    "titre": "Cultiver son Leadership .pdf"
+    "titre": "Cultiver son Leadership .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11mBpYD8YYmla1Kmz61daU4bX-pA9wBfk",
-    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf"
+    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11kjwcv1BREKOwQ-aBIemPmJAKR8L9qG-",
-    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf"
+    "titre": "Je sais que vous mentez : L'art de détecter les menteurs et les manipulateurs de Paul Ekman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AWMzoOqoBJykaRygqNDvsV5Wxt8tNllA",
-    "titre": "L_Art_de_la_Confiance_en_Soi_Katty_Kay_Claire_Shipman.pdf"
+    "titre": "L_Art_de_la_Confiance_en_Soi_Katty_Kay_Claire_Shipman.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lxyJnCbBWYgniPrvQ0D5JxOkF9BtTs4R",
-    "titre": "L’Alchimiste Paulo Coelho﻿.pdf"
+    "titre": "L’Alchimiste Paulo Coelho﻿.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Qn1LyUFKchEjt5xs_tfrGlp0cIofY5_l",
-    "titre": "L'art de négocier avec la méthode Harvard.pdf"
+    "titre": "L'art de négocier avec la méthode Harvard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jLH1sjgo1pZOtvVGsNjNbK3bDVnawtNa",
-    "titre": "L'art du Trading.pdf"
+    "titre": "L'art du Trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gPNMpgW0Ltqf6q7NOXbAT7VXIglEE1BC",
-    "titre": "L'art subtil de s'en foutre.pdf"
+    "titre": "L'art subtil de s'en foutre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KuR1Dkaogj0WsnxSHcuss3OrE_FgM5eV",
-    "titre": "L'estime_de_soi_saimer_pour_mieux_vivre_avec_les_autres_Christophe.pdf"
+    "titre": "L'estime_de_soi_saimer_pour_mieux_vivre_avec_les_autres_Christophe.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TZl3a7t7KhT5GUmI4GcmXItQZ-vLYcOz",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AbUAQTYrYzCBYBNTu2S_0gaZou_Ajfgu",
-    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf"
+    "titre": "La puissance de la pensée positive – Norman Vincent Peale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17J9sfY4zt3-LET4PJRb59j7MZVrIe_j0",
-    "titre": "La_bible_de_la_négociation_Alexis_Kyprianou.pdf"
+    "titre": "La_bible_de_la_négociation_Alexis_Kyprianou.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yHMNugQsH1LoXDSIYeKraaQYWgB5d3wv",
-    "titre": "Le choix du courage.pdf"
+    "titre": "Le choix du courage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Em8tfwf-weYr5mwG0kfiClNOpGLjVpw2",
-    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf"
+    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BWUxYRT3pZudoOX16p7VQwEO2hd5iGNr",
-    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf"
+    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10j6STp2e87u6hHUPFGotaBFdoFE06HeM",
-    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf"
+    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14Whd89BBY1oobVmy5YXE0oNwYsWo8qsh",
-    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-Yu0HJ47LQVJuLK7mtgcnXto3hB4DPFs",
-    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1x8Ca5-OkPxtKS28vbk1OQYCKo2_QfI10",
-    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_gaRHwmiOLxYHKv1YcW8WkBE4BH4ImIA",
-    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ewOpIkUbG3dGNr-RO4QhqcbDph9XwZMl",
-    "titre": "les-7-habitudes-des-gens-efficaces.pdf"
+    "titre": "les-7-habitudes-des-gens-efficaces.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18y-r5pf6KafkoQJYtHA1a_oi6L4W7g_Q",
-    "titre": "Manipuler et séduire.epub"
+    "titre": "Manipuler et séduire.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QXCP9IQZyReAGY3fZZrQjtAxJM3yos9e",
-    "titre": "MÉDITER, jour aprés jour.pdf"
+    "titre": "MÉDITER, jour aprés jour.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TyOo-nNqSciib5gybCyskhYLNOo7FPei",
-    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf"
+    "titre": "Psychologie du manager : pour mieux réussir au travail – Patrick Amar.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lLZkHNCEpG53PkWyeq5QeOvtrDAmJ7db",
-    "titre": "Rompre avec soi-même - Joe Dispenza.pdf"
+    "titre": "Rompre avec soi-même - Joe Dispenza.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HPa340jO7DxiMCJFUNRIGODDpmnVmXWW",
-    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf"
+    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GSYlvHIgkj9ApCge-Cb_sOC3sD32W89a",
-    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf"
+    "titre": "The 50th Law – Robert Greene & 50 Cent (Curtis Jackson).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1f4OanRQzK2nAFEnqGMibrYvbPIt_LwSg",
-    "titre": "The_50th_Law_-_Robert_Greene.pdf"
+    "titre": "The_50th_Law_-_Robert_Greene.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BY3p6mL8eerJfReqeAuMRVP57GzLFn1x",
-    "titre": "Trader avec succès grâce au neuro trading.pdf"
+    "titre": "Trader avec succès grâce au neuro trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1F-V-k-fPOstHhyE9WkzjY_xfqk2JAiZi",
-    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf"
+    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19APyHwjAOKVEkL5t7d94Ec3nzlU-9xod",
-    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf"
+    "titre": "200 mots savants pour paraître intelligent et cultivé de Hélène Drouard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17lt4M4aurH6efRKTEUYLBMJvCZnJr6Ya",
-    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf"
+    "titre": "A la Poursuite du Soleil  (Linda Geddes).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1azePwzDcDSlmrZjDQudEzs8E2q6HfBMf",
-    "titre": "Atteindre l'excellence – Robert Greene.pdf"
+    "titre": "Atteindre l'excellence – Robert Greene.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tfEC1LN_nwsMcoLiBgUH6t8LYR0UAmCY",
-    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf"
+    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "10lfH5m2iRgtnMEGfFtjd14lI1g176Bni",
-    "titre": "Christel Petitcollin - Bien communiquer avec son enfant.pdf"
+    "titre": "Christel Petitcollin - Bien communiquer avec son enfant.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BubAfyDqWAyt33fWm57mJzueqYsi2-7J",
-    "titre": "citations_pour_réflechir avant d'agir.pdf"
+    "titre": "citations_pour_réflechir avant d'agir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1BUffOgty0frRu3gNiB77GFj_LnG5Pbf9",
-    "titre": "Comment retrouver toute son énergie.pdf"
+    "titre": "Comment retrouver toute son énergie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1pYJoDmt9RPngFU7RI-xA2xUkkkV9ecLt",
-    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf"
+    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TmfhlU5I1uFB6TtsdJ0739uzAe9hsU81",
-    "titre": "Cultiver son Leadership .pdf"
+    "titre": "Cultiver son Leadership .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DwW0EgIg_CLUFGiuuuzTnv0goq5cf92h",
-    "titre": "Dejouer_Pieges_Developpement_Personnel.pdf"
+    "titre": "Dejouer_Pieges_Developpement_Personnel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QeoADJewnAtr0AxzWW7ZnZXZr0Je8hqm",
-    "titre": "Demandez-à-Deepak-Le-succès-_Deepak-Chopra.pdf"
+    "titre": "Demandez-à-Deepak-Le-succès-_Deepak-Chopra.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AUXl3n7bVegxSXNyKJLQyB_T0la6etYj",
-    "titre": "guide du leadership.pdf"
+    "titre": "guide du leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17mxTgEnLpFUmvTwWFK36dAmhmhRkeEK0",
-    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf"
+    "titre": "Je prends soin de ma sante ! - Lise Chausse.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "166QS_Zlrq5_eOmE9NyYKHeOZFVNELDoB",
-    "titre": "Je veux réussir mon droit – Isabelle Defrénois-Souleau.pdf"
+    "titre": "Je veux réussir mon droit – Isabelle Defrénois-Souleau.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "15pK78FxeY6yZ0MfDpVwpddCQpRP9rKFC",
-    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf"
+    "titre": "Jean_Philippe_Texier_Auto_entrepreneurs_Points_clés_pour_réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14LLv0D3YhG7NgEjQ0-57jzjKWvCuLDbC",
-    "titre": "L’Alchimiste Paulo Coelho﻿.pdf"
+    "titre": "L’Alchimiste Paulo Coelho﻿.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KUYusVwZCIlb7G-is5fnOCYPun9mDU3C",
-    "titre": "L'art de la guerre Sun Tzu.pdf"
+    "titre": "L'art de la guerre Sun Tzu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17qjMjiBsPsUiFedsToa4HRIHvCBB4Flq",
-    "titre": "L'art subtil de s'en foutre.pdf"
+    "titre": "L'art subtil de s'en foutre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vmZQU2WwRq7KhnVGI5pZH677VG4qfjhW",
-    "titre": "L'effet_cumulé,_décuplez_votre_réussite_Darren_Hardy.pdf"
+    "titre": "L'effet_cumulé,_décuplez_votre_réussite_Darren_Hardy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1AFoI501K2MZeye10n2BLH6N8z_W7S-kM",
-    "titre": "L'homme le plus riche de Babylone.pdf"
+    "titre": "L'homme le plus riche de Babylone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1VbsrXVZjomnNhxp7q3qAxP3Cj5pHNceS",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19AhGx1FCp61V-TyTxAERfWhkLz0_9Bja",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1X_s_hT8CgIHQoXRq7KeuGtY0qXnb5v6F",
-    "titre": "La clé du succès illimité – Joe Vitale.pdf"
+    "titre": "La clé du succès illimité – Joe Vitale.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17O2EcVH1LCX7QwvxhzkC7cPkmqa1KVwk",
-    "titre": "La magie du rangement.pdf"
+    "titre": "La magie du rangement.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xbC576Lpd62Kn8hbVqizpJa4-cmxnjdK",
-    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf"
+    "titre": "LA PENSÉE POSITIVE Comment atteindre... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nml5ZuJrnnR62QeHMcHDPj1HqyXNC_Ej",
-    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf"
+    "titre": "La Règle du 10X : Penser 10 fois plus grand pour passer de l’échec au succès de Grant Cardone .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1et43JW1S7s7fD_7VR614IMD5dyYU3IpF",
-    "titre": "La technique du succès.pdf"
+    "titre": "La technique du succès.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IIZy43v8P8MtbY-gI5NUhz_L-juZaVyO",
-    "titre": "La_boite_a_outils_du_leadership.pdf"
+    "titre": "La_boite_a_outils_du_leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EJiXD5jh2_GYkqTeokreoLBHnUiy7x1P",
-    "titre": "la-chevre-de-ma-mere.pdf"
+    "titre": "la-chevre-de-ma-mere.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1euGs-_500rzhdJ_lTO9v_4ZZh6KI_jS4",
-    "titre": "Le cerveau de Bouddha.Pdf"
+    "titre": "Le cerveau de Bouddha.Pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nlalHnwrsJzo_j5SdxEv09rAtldpA5un",
-    "titre": "Le Guide de l'Apprenti Millionnaire.pdf"
+    "titre": "Le Guide de l'Apprenti Millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Bq0J-kj_EtzczCDH-RuOpVS7Arngynbb",
-    "titre": "Le Guide des vertus traditionnelles des plantes et autres produits naturels.pdf.pdf"
+    "titre": "Le Guide des vertus traditionnelles des plantes et autres produits naturels.pdf.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1LY2tArYNdAUhZOB0GemCFRYDo6gTXPm7",
-    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf"
+    "titre": "Le Manuel du Milliardaire de Dallys-Tom Medali.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bokSxzJz5C21Uc4co6TOMTkva9lHCBJQ",
-    "titre": "Le Mindset - 90% de la réussite.pdf"
+    "titre": "Le Mindset - 90% de la réussite.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1i78dbQ8qX1R-e8bvhvL1LnJe2UwRyVxQ",
-    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf"
+    "titre": "Le plus grand vendeur du monde d’Og Mandino.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iuek5Dcz2PtMtUYySr69mF8D2dogH6qF",
-    "titre": "Le pouvoir des habitudes Charles Duhigg.pdf"
+    "titre": "Le pouvoir des habitudes Charles Duhigg.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1t3hyLGWn8PX-uFYpdU_QFakGx13ZZnJG",
-    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf"
+    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rREoPR6DsiwXPeatzNy0p-ZyyrKFjSxa",
-    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf"
+    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QwBY1QrHZNiYag4GpqooQWPw1Qoc30qp",
-    "titre": "Le secret de l’Abondance & de la Prospérité – Wallace D. Wattles.pdf"
+    "titre": "Le secret de l’Abondance & de la Prospérité – Wallace D. Wattles.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13lBeMH1kA8UziwthFjGiXCrEPrl4SnlB",
-    "titre": "Le talent est une fiction .pdf"
+    "titre": "Le talent est une fiction .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zs22tsiD6YXEMAKPV4EyoiI7ptF321uG",
-    "titre": "Les 365 lois de Robert Greene.PDF"
+    "titre": "Les 365 lois de Robert Greene.PDF",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KsV7YQ9zLAp2dnUMXeGYYvm_sV0QwMOO",
-    "titre": "Les 7 secrets pour devenir riche de Warren Buffet.pdf"
+    "titre": "Les 7 secrets pour devenir riche de Warren Buffet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1jhxs27FetJZp5K6x7BH0dI9RVRgSuEbf",
-    "titre": "Les Secrets de la Loi d'Attraction - Sié Issa.pdf"
+    "titre": "Les Secrets de la Loi d'Attraction - Sié Issa.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dOqTH8TASnZJaFXBhdIwyFoz91cin8s9",
-    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf"
+    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1d3anFLFanj7Gy-oF5drRIGNSBdq2go9B",
-    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf"
+    "titre": "Les_bons_leaders_se_posent_les_bonnes_questions_240322_161129.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FMPmEauhzT7dl7FkZbK_Fty_KRt_NVG8",
-    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_1_Leçons_1_à_4_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YbOTbdT8hd-nsKLXJXBIc9wSgJNp4Efb",
-    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_2_Leçons_5_à_8_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tbLkGeybwM0MbX3jwu_KxAKQXB6UD42t",
-    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_lois_du_succès_3_Leçons_9_à_12_Napoléon_Hill_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16tgzbfu1w4Rn97JGkdx5dyGGIc9MnZkn",
-    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf"
+    "titre": "Les_Lois_du_succès_4_Leçons_13_à_17_Hill,_Napoléon_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "16YCll6h8fPcTx2om3T2yLMaxqhtab6dv",
-    "titre": "les-7-habitudes-des-gens-efficaces.pdf"
+    "titre": "les-7-habitudes-des-gens-efficaces.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kZJTXf_-Ex4kA0wD40gbRYs-WNn24362",
-    "titre": "MÉDITER, jour aprés jour.pdf"
+    "titre": "MÉDITER, jour aprés jour.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qQrTinJzDEMuanIjshV17QHjGNabI4EH",
-    "titre": "Objectifs_Brian_Tracy.pdf"
+    "titre": "Objectifs_Brian_Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dOBFNLiJB90fyvYxyiK1VPYypFQDkz6d",
-    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf"
+    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1HDqQVKJq5vjVPDPF1gXBiSrYVF0EHrdd",
-    "titre": "pere-riche-pere-pauvre.pdf"
+    "titre": "pere-riche-pere-pauvre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1JqqVHtvcCsrXiiRNJJEvPPjAoZPSXdQm",
-    "titre": "Reinventez votre vie - Arnaud Collery.pdf"
+    "titre": "Reinventez votre vie - Arnaud Collery.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1J5FAooqBN3cdenXWxIBcVVgMQ7CN2qxv",
-    "titre": "Réussir son site web en 60 fiches.pdf"
+    "titre": "Réussir son site web en 60 fiches.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1dhoG6DC-VjCCkmd_qtIJY6GZDg9CFJAg",
-    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf"
+    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1C69MfiNOkefJ7rTh7sVvEkmFQWd6wWmx",
-    "titre": "The_5_AM_Club_Robin_Sharma.pdf"
+    "titre": "The_5_AM_Club_Robin_Sharma.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KUap84inal2hCQXfSCEHrIXTiQKF1JVp",
-    "titre": "Un rien peut tout changer – James Clear.pdf"
+    "titre": "Un rien peut tout changer – James Clear.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19RuzhC3M_Pb_THhPaw5A-f1W2RlcScaE",
-    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf"
+    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rpzA8V74xoNC_6L_aeIRSVkhYcdec00b",
-    "titre": "Vendre ou Perdre - Grant Cardone.pdf"
+    "titre": "Vendre ou Perdre - Grant Cardone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gRzTQY-KJZfZfeRBo45N2dtBftwEuljf",
-    "titre": "Accepte-Toi. joyce Meyer.pdf"
+    "titre": "Accepte-Toi. joyce Meyer.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1NgBV0lm3uZDml4p9uuAQJprAyTsEV0zE",
-    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf"
+    "titre": "Avoir le courage de ne pas être aimé_. (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1uJFIJ0U2PEc2ChlghiWDDdgxFRetf8J1",
-    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf"
+    "titre": "Divorcer d'un manipulateur - Petitcollin Christel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Qdqs8pZfvmZf0INa0pqnUWv0dd-eoix2",
-    "titre": "Ken Bugul - La pièce d'or.pdf"
+    "titre": "Ken Bugul - La pièce d'or.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1T9QvswfbHQ3q-capdBUUiy2kPDyt9L10",
-    "titre": "L'homme qui voulait être heureux.pdf"
+    "titre": "L'homme qui voulait être heureux.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lsWz-LGMVoW35Yxq6xpTET3sdZAQnvWa",
-    "titre": "L'obstacle est le chemin.pdf"
+    "titre": "L'obstacle est le chemin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xx76HWM878ew3dpvxirWJU5AvtXROYsQ",
-    "titre": "La chute (Camus Albert).pdf"
+    "titre": "La chute (Camus Albert).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sRaRLynTjyROalR_H76Iot66EzE-_Jhu",
-    "titre": "La vie et demie.pdf"
+    "titre": "La vie et demie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "12fmj43I1SYsGCe3DWfOgeEt4BA4G3Msm",
-    "titre": "Le Prix de la réussite (French Edition) (2).pdf"
+    "titre": "Le Prix de la réussite (French Edition) (2).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1i3Y0dhi-c82eQi7rA7bocsSBJ1QeS69R",
-    "titre": "Le talent est une fiction .pdf"
+    "titre": "Le talent est une fiction .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xkcXsw10mcts6KZLaprFtiuEX_iAA0dC",
-    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf"
+    "titre": "Le_livre_de_sagesse_toltèque_Ruiz_Jr_Don_Miguel_L@BibliothèqueDuSage.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WbOYzB6qf7v52yuj1QbkUN4eMacVRlhW",
-    "titre": "les 48 lois du pouvoir .pdf"
+    "titre": "les 48 lois du pouvoir .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1SQcAkCxPZemZnxd6bP6wk4QTForAuW_i",
-    "titre": "Les lois de la nature humaine.pdf"
+    "titre": "Les lois de la nature humaine.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DwUdvGmYYeAMV78Cpx81dpMq0PFtCqDq",
-    "titre": "LES SOLEILS DES INDEPENDANCES.pdf"
+    "titre": "LES SOLEILS DES INDEPENDANCES.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DZEghGO-52DCa_qzUZ2OX1aXnn0SJZRW",
-    "titre": "Rompre avec soi-même - Joe Dispenza.pdf"
+    "titre": "Rompre avec soi-même - Joe Dispenza.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1e7yZ6u88QsPVaSfb9WVrV1_eYfyn0NX7",
-    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf"
+    "titre": "Si tu veux changer ta vie commence par faire ton lit.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Af0gq4eBAyxF9SZjucGww4NL1OSiDMW4",
-    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf"
+    "titre": "Surmonter ses complexes (Bénédicte Na... (Z-Library).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sTbfZVlfva3m1EknKiLWTJ9H3fA2wTJ4",
-    "titre": "21_Leçons_pour_le_XXIème_siècle_Yuval_Noah_Harari@clubdesbiblio.pdf"
+    "titre": "21_Leçons_pour_le_XXIème_siècle_Yuval_Noah_Harari@clubdesbiblio.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Vvt0yhJWakIAlU8J3-K8-KX7qL_PLSCV",
-    "titre": "Jean-Michel Palmier - .pdf"
+    "titre": "Jean-Michel Palmier - .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GGzRft9g_LvR-0oYR8LdDmU0BHUoSw_K",
-    "titre": "Le Livre Noir du Terrorisme.pdf"
+    "titre": "Le Livre Noir du Terrorisme.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yatN3SBD6TbVY4D-Zjxs3eejlISKe1v5",
-    "titre": "Manifeste pour la Terre et l'Humanisme de Pierre Rabhi.pdf"
+    "titre": "Manifeste pour la Terre et l'Humanisme de Pierre Rabhi.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GZKJiSbfXBpk4nkhVkqeQ0igHV8eowQe",
-    "titre": "Nicolas Hulot - Le syndrome du Titanic.pdf"
+    "titre": "Nicolas Hulot - Le syndrome du Titanic.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1nDgmlMJ_iYj9zz1Ysd7o7Y1le0J-XqaM",
-    "titre": "Nicolas Hulot - Plus haut que mes rêves.pdf"
+    "titre": "Nicolas Hulot - Plus haut que mes rêves.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QHAgTn0XPcjzc2vKo64J1C0SZMoKOBtM",
-    "titre": "algorithmique et programmation en java.pdf"
+    "titre": "algorithmique et programmation en java.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14YdU3QFCtcygjUqz7yDtZ_qUuYHVWw0b",
-    "titre": "algorithme et structure de données génériques.pdf"
+    "titre": "algorithme et structure de données génériques.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DwVdsv0XkkGCDzmUGl1-Umpdz1LWDElZ",
-    "titre": "algorithmique et programmation en java.pdf"
+    "titre": "algorithmique et programmation en java.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19leMclUT8zL9xecwlILzMEJmZhoCeXf8",
-    "titre": "architecture_des_Machines_et_des_Systemes_Informatiques.pdf"
+    "titre": "architecture_des_Machines_et_des_Systemes_Informatiques.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YHRQAv8REteBhGsqctX5ydrlq9MCYpNu",
-    "titre": "Les bases du hacking.pdf"
+    "titre": "Les bases du hacking.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1fmxzHocwQN3kVjbqNuKl7aoM_ztyTqc3",
-    "titre": "virus_informatiques_guide_pratique_meye_protect_lab.pdf"
+    "titre": "virus_informatiques_guide_pratique_meye_protect_lab.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "18yquvzo9_Ij56xAAcvOoTHe_zSf2D5LE",
-    "titre": "Adobe Photoshop C55.pdf"
+    "titre": "Adobe Photoshop C55.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FhGG6gx5BnvRa5Wman4TzCDJr2UCq7Q9",
-    "titre": "Adobe_Photoshop_Lightroom_6_Et_CC_Pour_Les_Nuls_Grand_Format,_2e.epub"
+    "titre": "Adobe_Photoshop_Lightroom_6_Et_CC_Pour_Les_Nuls_Grand_Format,_2e.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PNpUG9cwgHrR3EqRHgRi4SSidkMbQ3Ur",
-    "titre": "architecture des machines et des systèmes.pdf"
+    "titre": "architecture des machines et des systèmes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19gjBVUItG4C9OMbS3p9EKTxbnq0l_0Dh",
-    "titre": "architecture_des_Machines_et_des_Systemes_Informatiques.pdf"
+    "titre": "architecture_des_Machines_et_des_Systemes_Informatiques.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Eqttyf9Ba8Vdz0nDCy7EK41EswBfmpTi",
-    "titre": "GPT MASTERCLASS.pdf"
+    "titre": "GPT MASTERCLASS.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1a_9DmR0f1nVNyZ85zujth7ktaaBrqWGT",
-    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf"
+    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IGQ6GG9CTp6LaKUTSgONw8CeY6ohFm64",
-    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf"
+    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1j2Ze4jFz5yW2fcINYmAc2mEWPr4-5_4c",
-    "titre": "21 astuces pour moins dépenser son argent - Serge Yeffe-1.pdf"
+    "titre": "21 astuces pour moins dépenser son argent - Serge Yeffe-1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zcaWRxe7-LdS0Cw9FfCG_ibWk-UU0zlZ",
-    "titre": "21_astuces_pour_moins_dépenser_son_argent_Serge_Yeffe_1_1.pdf"
+    "titre": "21_astuces_pour_moins_dépenser_son_argent_Serge_Yeffe_1_1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1EQBvlSEcAf38aMOaqEN6JxLvPo2hie8k",
-    "titre": "Ce que lʼargent dit de vous - Christian JUNOD.pdf"
+    "titre": "Ce que lʼargent dit de vous - Christian JUNOD.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Hwe1qmzSx59Y_tq_XldCdXUUaEISM7N2",
-    "titre": "Comptabilité générale - Système français et normes IFRS – Jacques Richard & Christine Collette.pdf"
+    "titre": "Comptabilité générale - Système français et normes IFRS – Jacques Richard & Christine Collette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vZiplyCVy-ixKXm8VlQY7epSJ4LYxPlb",
-    "titre": "Devenez riche.pdf"
+    "titre": "Devenez riche.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kBdag3GZSaW0Y0siNRMnMpJZUOwPgfT4",
-    "titre": "Économie politique pour l'Afrique.pdf"
+    "titre": "Économie politique pour l'Afrique.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kuLpync2JOmBg58hAkiMgC06QruAq7US",
-    "titre": "Fiscalité_2015_2016_–_32_exercices_corrigés_impôt_sur_le_revenu.pdf"
+    "titre": "Fiscalité_2015_2016_–_32_exercices_corrigés_impôt_sur_le_revenu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19wE4x0bJQRoapJZyP2WGor-1Edc8ZPSm",
-    "titre": "Guide pour investir ( Robert kiyosaki).pdf"
+    "titre": "Guide pour investir ( Robert kiyosaki).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "118Ld8L-OxBUF_sd3BJozPpLEH39DixyJ",
-    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub"
+    "titre": "L'auto-entrepreneur pour les nuls @CahiersJaunes.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DTFaKymHnGbZ1Gm3vxf1YPoJa18oQ_5O",
-    "titre": "L'autoroute du millionnaire.pdf"
+    "titre": "L'autoroute du millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11jmIHFP6iVGBPiPprtizKmvpmnnEKosK",
-    "titre": "L'homme le plus riche de Babylone.pdf"
+    "titre": "L'homme le plus riche de Babylone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cAXAv32MsnEqRZA1l1R8bCphzxToN9ge",
-    "titre": "l'investisseur intelligent.pdf"
+    "titre": "l'investisseur intelligent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1H8znUN9jxw8ajMMc-biyqlq4iZuaC40x",
-    "titre": "la-chevre-de-ma-mere.pdf"
+    "titre": "la-chevre-de-ma-mere.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "11V7m7BMclkox3ioeiuqFHYARGY8rAps2",
-    "titre": "La-monnaie.-Ce-que-tout-le-monde-devrait-en-savoir.pdf"
+    "titre": "La-monnaie.-Ce-que-tout-le-monde-devrait-en-savoir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1g__NB9TpSz73oR6uL5eRg54KnJR9GdF6",
-    "titre": "le business plan du créateur d'entreprise.pdf"
+    "titre": "le business plan du créateur d'entreprise.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KjzBj6krBO8BSR2ZU_Z2arKNh8YTjmJA",
-    "titre": "Le chemin de la fortune – Benjamin Franklin.pdf"
+    "titre": "Le chemin de la fortune – Benjamin Franklin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1NsrVo889P_2B5hTwkA9muyT-lBUP6oGM",
-    "titre": "Le Guide de l'Apprenti Millionnaire.pdf"
+    "titre": "Le Guide de l'Apprenti Millionnaire.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1em7Z2xzl2wXrKAH08nESK3sfx5hoTCVa",
-    "titre": "Le Loup de Wall Street – Jordan Belfort.pdf"
+    "titre": "Le Loup de Wall Street – Jordan Belfort.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ARe2Dxsbw4SynXKQ1Ueoj4COmemuJS7O",
-    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf"
+    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1szH9Od5LjaMViyrmSeLo44g1O1R-ZwLW",
-    "titre": "Les 7 secrets de Warren Buffett pour devenir riche de Mary Buffett & Sean Seah.pdf"
+    "titre": "Les 7 secrets de Warren Buffett pour devenir riche de Mary Buffett & Sean Seah.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DYTagIezZjoylzM14V-3ZZhUrbhW5Xtw",
-    "titre": "pere-riche-pere-pauvre.pdf"
+    "titre": "pere-riche-pere-pauvre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1qTvNO3EkIAjTv4MoH87lXrLvkxujZVvQ",
-    "titre": "Précis de science et législation financières – Louis Trotabas.pdf"
+    "titre": "Précis de science et législation financières – Louis Trotabas.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1IE-bvxPbVFRVXz_mkdcirGxvKKansSJT",
-    "titre": "Thomas Sankara & Thomas Ziegler - Discours sur La Dette.pdf"
+    "titre": "Thomas Sankara & Thomas Ziegler - Discours sur La Dette.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xx6yN-6kWthbVA7AQgY0ej4KODKvc5Wh",
-    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf"
+    "titre": "Trump : Comment devenir riche par Donald J. Trump.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1tPbBal-YBmaGzQGdFWOchA6Rv-jNd8Q4",
-    "titre": "Un pied a l'école, un pied dans les affaires.pdf"
+    "titre": "Un pied a l'école, un pied dans les affaires.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1lD_pvntTRHxJ7uh_9Vl8aO5-mNuF6c4j",
-    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf"
+    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13XXfRHpG3JonkCaljAj8Yf6w---YYNEG",
-    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf"
+    "titre": "5_bonnes_raisons_d_investir_en_afrique.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1-xM5vAhao1G6OqXoJjiiMSolS2Is303d",
-    "titre": "Alexandre Elder - Vivre du trading.pdf"
+    "titre": "Alexandre Elder - Vivre du trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1OKWLjICFZNTu7-6tu6iLOgPnarF2uulp",
-    "titre": "Altlitrading - MES PREMIERS PAS EN BOURSE.pdf"
+    "titre": "Altlitrading - MES PREMIERS PAS EN BOURSE.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1chAY86nw9OUh6vK6eKJZRr6K12PRBR8Q",
-    "titre": "Au-coeur-du-Bitcoin-Programmer-la-Blockchain-ouverte-collection-O_Reilly-Andres-M.-Antonopouod.pdf"
+    "titre": "Au-coeur-du-Bitcoin-Programmer-la-Blockchain-ouverte-collection-O_Reilly-Andres-M.-Antonopouod.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1GWHGO7_gkCuTcrW6P18h0U9v_S07JYvI",
-    "titre": "Bitcoin-pour-les-Nuls-Prypto.pdf"
+    "titre": "Bitcoin-pour-les-Nuls-Prypto.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14bxw2rrDztLlINadufAhxHc3Cd9ZUCRh",
-    "titre": "Crypto_monnaies_Générer_des_revenus_passifs_avec_le_bitcoin_et.pdf"
+    "titre": "Crypto_monnaies_Générer_des_revenus_passifs_avec_le_bitcoin_et.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yOo8qr1BWLF_PBHSJiBXuI2WPVmZQ1FP",
-    "titre": "Devenez riche.pdf"
+    "titre": "Devenez riche.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_r8kGOXBgCnJY7Eky5V2S55CSDJ0uRoR",
-    "titre": "investir-avec-succes-dans-bitcoi.pdf"
+    "titre": "investir-avec-succes-dans-bitcoi.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1zHpSOEh4wXEdtbNJoT_qMuN_CgXlvOep",
-    "titre": "L_art_du_trading_Le_best_seller_du_trading_French_Chris83870.pdf"
+    "titre": "L_art_du_trading_Le_best_seller_du_trading_French_Chris83870.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1s27NPQIW80pQRlI-Io5zyUq2YogPGxBu",
-    "titre": "L'Art du Trading – Thami Kabbaj.pdf"
+    "titre": "L'Art du Trading – Thami Kabbaj.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1r6EwsMpVWzHjSlMZ5FSe_otffg4BbjkP",
-    "titre": "L'art du Trading.pdf"
+    "titre": "L'art du Trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DIiuRrJfd77NBD_3B_WRCQy7aQJQNjY1",
-    "titre": "l'investisseur intelligent.pdf"
+    "titre": "l'investisseur intelligent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1i8pjkpJEgpcS2_YuG_19rz2AoEdpXB4I",
-    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf"
+    "titre": "LE QUADRANT DU CASHFLOW - ROBERT KIYOSAKI.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1U5PfJ_tyx2Rg_15tCqJCKBYRJbtgYSBw",
-    "titre": "Les-seigneurs-de-l_argent-Guillaume-Maujean.pdf"
+    "titre": "Les-seigneurs-de-l_argent-Guillaume-Maujean.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1cVhl0edWbCHBhhco9XR82N9oKD2DVtGk",
-    "titre": "Marchés financiers.pdf"
+    "titre": "Marchés financiers.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ldA5RQkArTHII1ZR7gQwM2WB6ckPAH81",
-    "titre": "Pascal-Trichet-La-bourse_-le-trading-et-leurs-secrets-_2018_-Fr.pdf"
+    "titre": "Pascal-Trichet-La-bourse_-le-trading-et-leurs-secrets-_2018_-Fr.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1K8XGrXminlHtnG1bruVl11ZvTd70doL0",
-    "titre": "Trader avec succès grâce au neuro trading.pdf"
+    "titre": "Trader avec succès grâce au neuro trading.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1UcmTAQB6IT9el0CFqRiRPtJyxHyg3rW_",
-    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf"
+    "titre": "20-Secrets-pour-gérer-son-argent-1-1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1azLNmDjvYW2yV3Ar5TwQVZR8tuYwp2ub",
-    "titre": "Devenez riche.pdf"
+    "titre": "Devenez riche.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1sLPLm4C4UibhPdY_8CS-Qs4T9xDrAvof",
-    "titre": "guide du leadership.pdf"
+    "titre": "guide du leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1kR_jwGHtgQYLYXHanjTClt1GvhYYbuW8",
-    "titre": "La_boite_a_outils_du_leadership.pdf"
+    "titre": "La_boite_a_outils_du_leadership.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1RuZTFpSYU3K9yHEiJZK4wqA7S_fP_e4x",
-    "titre": "le business plan du créateur d'entreprise.pdf"
+    "titre": "le business plan du créateur d'entreprise.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "13XbTAcD3UJeCj1UATVm1vTiV4IElraEE",
-    "titre": "Technologie, Innovation, Stratégie – De l’innovation technologique à l’innovation stratégique, de Pascal Corbel.pdf"
+    "titre": "Technologie, Innovation, Stratégie – De l’innovation technologique à l’innovation stratégique, de Pascal Corbel.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Oy-74y5nRs50HsBsgW3_Lg0sZk7t2nb2",
-    "titre": "21 astuces pour moins dépenser son argent - Serge Yeffe-1.pdf"
+    "titre": "21 astuces pour moins dépenser son argent - Serge Yeffe-1.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1K4eMwBwp5_q6rEmCVyOesoAxB8IrXyZL",
-    "titre": "Avalez le crapaud ! – 21 bonnes habitudes pour arrêter de tout remettre au lendemain – Brian Tracy.pdf"
+    "titre": "Avalez le crapaud ! – 21 bonnes habitudes pour arrêter de tout remettre au lendemain – Brian Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1yk6C6Et8Xoeu-eiaTcriZ7Z7ZCDckZ2p",
-    "titre": "L'art subtil de s'en foutre.pdf"
+    "titre": "L'art subtil de s'en foutre.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1KudDa1UYMGFQHGYnCWco76ZSLN22hOi0",
-    "titre": "L'homme le plus riche de Babylone.pdf"
+    "titre": "L'homme le plus riche de Babylone.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1gjCNjFaw-BdjeB7uGq-s8gxzxHrC4NeT",
-    "titre": "La gestion du temps  (Hermel).pdf"
+    "titre": "La gestion du temps  (Hermel).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Y-mGAD0jyTr9SGsRa2TZItWheDwLCA-7",
-    "titre": "La magie du rangement.pdf"
+    "titre": "La magie du rangement.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1l66jrspZ_5JcRwomV8pmd8qv-3wzk66h",
-    "titre": "La technique du succès.pdf"
+    "titre": "La technique du succès.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TD7Ln8cAJOuqiw7YGYPZk9EeJDbPTAny",
-    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf"
+    "titre": "LE GUIDE ULTIME DE L'IA 2023 Version Finale-compressed.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PzmfgQhq0QLn97J331k5zVjmAKa-Pg3Q",
-    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf"
+    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "14o64qgEIAALYTPkRnLFguXw4M-SOiLW0",
-    "titre": "les-7-habitudes-des-gens-efficaces.pdf"
+    "titre": "les-7-habitudes-des-gens-efficaces.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1h9SIF7lispSuOl92UwcNV2Gy8pUmTGG3",
-    "titre": "Optimiser son temps facilement_ - Aurelien Vezzani.pdf"
+    "titre": "Optimiser son temps facilement_ - Aurelien Vezzani.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1beXHxMTgILUGBu0aua4kcpHthgQeM2lA",
-    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf"
+    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1vvU_DOIzGZmp-zDu56cdgcfpvY5sZgSU",
-    "titre": "Principes_de_base,_démontage_du_dossier,_montage_de_la_note,_dossier.pdf"
+    "titre": "Principes_de_base,_démontage_du_dossier,_montage_de_la_note,_dossier.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1rJv9dyrWw5wEW69R7MLvt_ydp42u7uxw",
-    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf"
+    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bYYPvVnTqG7nuE8axy6KHTrRUZDeqAPY",
-    "titre": "Réussir son site web en 60 fiches.pdf"
+    "titre": "Réussir son site web en 60 fiches.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1xHugiTnFDD1oLeh_OwerVZLdkuFA8jhB",
-    "titre": "S'organiser pour réussir.pdf"
+    "titre": "S'organiser pour réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1c9XaHXULLZNANXnkvIPtmMH6VrePQpcP",
-    "titre": "Avalez le crapaud ! – 21 bonnes habitudes pour arrêter de tout remettre au lendemain – Brian Tracy.pdf"
+    "titre": "Avalez le crapaud ! – 21 bonnes habitudes pour arrêter de tout remettre au lendemain – Brian Tracy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1uCB0_LE6SBqrnwqS9VFu4VCl1AtAa1N4",
-    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf"
+    "titre": "Barack Obama - 14 Principes De Leadership - Gilles Vandal.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ESpPvViLBL8BAG36NbJSRf9Alg_aNTOL",
-    "titre": "Cultiver son Leadership .pdf"
+    "titre": "Cultiver son Leadership .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1u4J3T34gjq2OpbpWg_yXsTUg8Gzm6mpw",
-    "titre": "La gestion du temps  (Hermel).pdf"
+    "titre": "La gestion du temps  (Hermel).pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1V1vxSJg11gXUFZ3QXUuUBecw1KOAZjr5",
-    "titre": "La magie du rangement.pdf"
+    "titre": "La magie du rangement.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "17VkQ_B4hNlrQxpqYvJseM9_oDBzhVUBX",
-    "titre": "La technique du succès.pdf"
+    "titre": "La technique du succès.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1DLeYJgtaZl3B2SbIeSvmRettfDlme3K6",
-    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf"
+    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "19R6dYciGZWoQInZBL4pXffuu7Qf3xgw4",
-    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf"
+    "titre": "Les_7_Habitudes_de_ceux_qui_realisent_ce_qu_ils_entreprennent_Stephen.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1aMdOmifn24WOPkx1jQLYaGmCLFrUFbhZ",
-    "titre": "les-7-habitudes-des-gens-efficaces.pdf"
+    "titre": "les-7-habitudes-des-gens-efficaces.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1hjzOxdhU54wQGJZbnSegoLXgjgPP85xM",
-    "titre": "Optimiser son temps facilement_ - Aurelien Vezzani.pdf"
+    "titre": "Optimiser son temps facilement_ - Aurelien Vezzani.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1TnFuQoDEUPDRRMfWn2zch96NBtSI9MJV",
-    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf"
+    "titre": "Organisez_vos_idées_avec_le_Mind_Mapping_by_Jean_Luc_Deladrière.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1uVsWE2XKrlzuUjnfT0soWzPYhP4EPfoz",
-    "titre": "S'organiser pour réussir.pdf"
+    "titre": "S'organiser pour réussir.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1ztsOrCvwUK00CJYh_C6-_eSCEshRM0WN",
-    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf"
+    "titre": "un-leadership-humain-et-performant-oui-c-est-possible_bookys.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1X3QuurgcXPRXbOthK7L6V_S5x4nV66zK",
-    "titre": "Les 7 secrets pour devenir riche de Warren Buffet.pdf"
+    "titre": "Les 7 secrets pour devenir riche de Warren Buffet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1H4gdWUzY05nLLl5Zb--uhHjCuRfqXW5X",
-    "titre": "Adobe Photoshop C55.pdf"
+    "titre": "Adobe Photoshop C55.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1mdSckl2zj9p0u1E7scssnz0P4fy3LVbR",
-    "titre": "Adobe_Photoshop_Lightroom_6_Et_CC_Pour_Les_Nuls_Grand_Format,_2e.epub"
+    "titre": "Adobe_Photoshop_Lightroom_6_Et_CC_Pour_Les_Nuls_Grand_Format,_2e.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Xb2ei-wPpwvfuNfyh7xJK66OOuQeGx67",
-    "titre": "Grand livre de la photographie (2013) - Scott Kelby.pdf"
+    "titre": "Grand livre de la photographie (2013) - Scott Kelby.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1iROhSqP7eFU9v_FnXYAkDUf6SfgbSIiI",
-    "titre": "J_apprends la photographie (Eyrolles 2016) - Nicolas Croce.pdf"
+    "titre": "J_apprends la photographie (Eyrolles 2016) - Nicolas Croce.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1K0M82XMcfeuN-40GkFXBZy0PYPDThEhE",
-    "titre": "La photographie au reflex numerique (2016) - D. Busch, David.epub"
+    "titre": "La photographie au reflex numerique (2016) - D. Busch, David.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1_MKgucSJhW7ZikZd6PfFmZUvT6jrsel8",
-    "titre": "Les secrets du cadrage photo (Eyrolles 2015) - Denis Dubesset.pdf"
+    "titre": "Les secrets du cadrage photo (Eyrolles 2015) - Denis Dubesset.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1By86lUkw45oWRjoTHxS9WU8jHJPkhCHS",
-    "titre": "Photographie au Smartphone - Philip Escartin.pdf"
+    "titre": "Photographie au Smartphone - Philip Escartin.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FxNcBSx28UFsEl4k3oj7tGPiqMYbrZye",
-    "titre": "Regards sur la photo de rue (2012) - Thomas Leuthard.pdf"
+    "titre": "Regards sur la photo de rue (2012) - Thomas Leuthard.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1f6fBmyQkHvzS6Qt14JbffadifH3s95HM",
-    "titre": "Serial-Photographer (dernière édition 2017) - Eric Forey .epub"
+    "titre": "Serial-Photographer (dernière édition 2017) - Eric Forey .epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1fYRkFlh0H6Xn2qEmH5Shlh5cg6wZuvxJ",
-    "titre": "L’Alchimiste Paulo Coelho﻿.pdf"
+    "titre": "L’Alchimiste Paulo Coelho﻿.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1MwaoOH8o4Y6UfwFnSTnS2FAL2I_T-Aei",
-    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf"
+    "titre": "LE POUVOIR DU MOMENT PRÉSENT Guide ECKHART TOLLE .pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1Ia0nJJH0oUh_knSDtVP7PKLG1Fy7I6Rz",
-    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf"
+    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1LKLms0nN-4cNEVhm--FJE0QfI5WcPEko",
-    "titre": "Réveiller sa créativité ! – Louise CÔTÉ.Pdf"
+    "titre": "Réveiller sa créativité ! – Louise CÔTÉ.Pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1bUjIm7GPAV9czVUKU_EbKgrDJI3mZNoT",
-    "titre": "Droit de l'urbanisme, droit de l'environnement - préparation au concours rédacteur territorial – Laure Aubril & Seydou Traoré.pdf"
+    "titre": "Droit de l'urbanisme, droit de l'environnement - préparation au concours rédacteur territorial – Laure Aubril & Seydou Traoré.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1M0FIvwa73iOQpumeJnRccXHZtq7ix3Ea",
-    "titre": "La_Nouvelle_Gestion_Publique_Concepts,_outils,_structures,_bonnes.pdf"
+    "titre": "La_Nouvelle_Gestion_Publique_Concepts,_outils,_structures,_bonnes.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1QLqNWwwLiVVBjbCqGDoSLF294Qa3uzT5",
-    "titre": "L'art de la guerre Sun Tzu.pdf"
+    "titre": "L'art de la guerre Sun Tzu.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1FhyKX2r2ngKjbdrOJTsoooKeb5H-lPlJ",
-    "titre": "Le Management Pour Les Nuls.epub"
+    "titre": "Le Management Pour Les Nuls.epub",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PyEgKX9ZBYWOCGzI25XV3js-VfqWwgQV",
-    "titre": "Management.pdf"
+    "titre": "Management.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1I2pC9OmiAxA7yswHx-ddMpbUxrVzqYdU",
-    "titre": "Les métiers de l'internet.pdf"
+    "titre": "Les métiers de l'internet.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1PIAUvHF1Er-I4ylZrvA5kkm-PwAr7yBB",
-    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf"
+    "titre": "Comment-devenir-un-entrepreneur-de-genie.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1il4dv5u5Zua5ADEHWnytjFgF1yyYR9Fn",
-    "titre": "Générations Y & Z.pdf"
+    "titre": "Générations Y & Z.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1YRQZxxJ4eefN7cpy6e4cYRvct1LJo5nN",
-    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf"
+    "titre": "Rédiger avec succès lettres, e-mails, documents administratifs et professionnels.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1W9Yi9IL1hCjn7v1otzvnrzwBX12KMNgL",
-    "titre": "Les Lois de Murphy.pdf"
+    "titre": "Les Lois de Murphy.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1WlfrLmZqhFZIbcih11g3iT3zoDgr-1y-",
-    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf"
+    "titre": "INFOPRENEUR : Comment avoir une machine automatique à faire de l'argent.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   },
   {
     "id": "1U7uCDM15OjViZUrmbVjQbrVrdU-CSeUk",
-    "titre": "Le plan marketing vite et bien.pdf"
+    "titre": "Le plan marketing vite et bien.pdf",
+    "auteur": "",
+    "description": "",
+    "cover": ""
   }
 ]
