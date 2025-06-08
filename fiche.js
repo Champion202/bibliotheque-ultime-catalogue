@@ -7,11 +7,11 @@ fetch('books.json')
   .then(res => res.json())
   .then(books => {
     const bookId = getIdFromUrl();
-    const book = books.find(b => b.id === bookId);
     const ficheDiv = document.getElementById('fiche-livre');
+    const book = books.find(b => b.id === bookId);
 
     if (!book) {
-      ficheDiv.innerHTML = `<p style="text-align:center;">Livre introuvable.</p>`;
+      ficheDiv.innerHTML = `<p style="text-align:center;color:#e1722b;font-size:1.2em;">Livre introuvable.</p>`;
       document.title = "Livre introuvable – Bibliothèque Ultime";
       return;
     }
@@ -23,9 +23,9 @@ fetch('books.json')
       <div class="book" style="max-width:670px;margin:2.5rem auto;">
         <img src="${book.cover || 'https://placehold.co/100x150?text=LIVRE'}" alt="Couverture du livre ${book.titre}">
         <div>
-          <h1 style="font-size:1.33rem;margin-top:0.2em;color:#384b92;">${book.titre}</h1>
+          <h1 style="font-size:1.33rem;margin-top:0.2em;color:#0370c0;">${book.titre}</h1>
           <p><strong>Auteur :</strong> ${book.auteur || "N/A"}</p>
-          <p style="font-size:1.03em;color:#364a90;"><strong>Description :</strong> ${book.description || "<span style='color:#b1b7d6;'>Non renseignée</span>"}</p>
+          <p style="font-size:1.03em;color:#0370c0;"><strong>Description :</strong> ${book.description || "<span style='color:#b1b7d6;'>Non renseignée</span>"}</p>
           <a href="https://t.me/BibliothequeUltime_bot?start=${book.id}" target="_blank" style="margin-top:1.1em;">📲 Télécharger sur Telegram</a>
         </div>
       </div>
