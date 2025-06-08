@@ -65,3 +65,5 @@ async function enrichBatch(books) {
     fs.writeFileSync('./books.json', JSON.stringify(enriched, null, 2));
     console.log("✅ books.json enrichi avec auteurs, description, cover !");
 })();
+
+import('./generate_sitemap.mjs');
