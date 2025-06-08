@@ -6,7 +6,7 @@ fetch('books.json')
       <div class="book">
         <h2>${book.titre}</h2>
         <p>Auteur : ${book.auteur}</p>
-        <a href="https://https://t.me/CryptoEarn1Bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
+        <a href="https://t.me/CryptoEarn1Bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
       </div>
     `).join('');
   });
