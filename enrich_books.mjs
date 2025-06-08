@@ -6,7 +6,14 @@ let books = JSON.parse(fs.readFileSync('./books.json', 'utf8'));
 
 async function enrichBook(book) {
     try {
-        const q = encodeURIComponent(book.titre);
+        // Nettoie le titre
+        let titreClean = book.titre;
+        titreClean = titreClean.replace(/\.pdf$/i, '');
+        titreClean = titreClean.replace(/\.epub$/i, '');
+        titreClean = titreClean.replace(/ – .+$/, '');
+        titreClean = titreClean.replace(/ - .+$/, '');
+        const q = encodeURIComponent(titreClean.trim());
+
         const url = `https://openlibrary.org/search.json?title=${q}&limit=1`;
 
         const res = await fetch(url);
