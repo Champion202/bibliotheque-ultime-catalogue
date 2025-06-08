@@ -53,19 +53,23 @@ function showPage(page) {
   const end = start + booksPerPage;
   const booksToShow = filteredBooks.slice(start, end);
 
+  // On prend les 10 derniers livres ajoutés comme "nouveau"
+  const latestBookIds = allBooks.slice(-10).map(b => b.id);
+
   list.innerHTML = booksToShow.map(book => `
-  <div class="book">
-    <a href="livre.html?id=${encodeURIComponent(book.id)}" style="text-decoration:none;">
-      <img src="${book.cover || 'https://placehold.co/100x150?text=LIVRE'}" alt="Couverture du livre ${book.titre}">
-    </a>
-    <div>
-      <h2><a href="livre.html?id=${encodeURIComponent(book.id)}" style="color:#384b92;text-decoration:none;">${book.titre}</a></h2>
-      <p><strong>Auteur :</strong> ${book.auteur || "N/A"}</p>
-      <p>${book.description || ""}</p>
-      <a href="https://t.me/BibliothequeUltime_bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
+    <div class="book">
+      <a href="livre.html?id=${encodeURIComponent(book.id)}" style="text-decoration:none;position:relative;">
+        <img src="${book.cover || 'https://placehold.co/100x150?text=LIVRE'}" alt="Couverture du livre ${book.titre}">
+        ${latestBookIds.includes(book.id) ? `<span class="badge-nouveau">Nouveau</span>` : ''}
+      </a>
+      <div>
+        <h2><a href="livre.html?id=${encodeURIComponent(book.id)}" style="color:#0370c0;text-decoration:none;">${book.titre}</a></h2>
+        <p><strong>Auteur :</strong> ${book.auteur || "N/A"}</p>
+        <p>${book.description || ""}</p>
+        <a href="https://t.me/BibliothequeUltime_bot?start=${book.id}" target="_blank">📲 Télécharger sur Telegram</a>
+      </div>
     </div>
-  </div>
-`).join('');
+  `).join('');
 
   renderPagination(page, Math.ceil(filteredBooks.length / booksPerPage));
 }
